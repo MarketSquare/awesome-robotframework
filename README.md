@@ -3,9 +3,6 @@ Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/
 
 > A curated list of awesome Robot Framework resources and libraries
 
-Resources
----------
-
 Libraries
 ---------
 
@@ -57,3 +54,9 @@ Tools
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
+
+Resources
+---------
+
+- [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
+- [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
