@@ -43,3 +43,10 @@ Tools
 - Low level (driver) Librabries
   - [Archive Library](https://github.com/bulkan/robotframework-archivelibrary) Library for handling zip- and tar-archives.
   - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
+
+- Editors
+  - [Atom Language Robot Framework](https://atom.io/packages/language-robot-framework) Robot Framework syntax highlighting for Atom
+  - [Autocomplete Robot Framework](https://atom.io/packages/autocomplete-robot-framework) Robot Framework autocomplete for Atom
+
+- Verification
+  - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
