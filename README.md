@@ -34,3 +34,12 @@ Tools
   - [Jenkins plugin](https://wiki.jenkins-ci.org/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
   - [Maven plugin](http://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
+
+- Mid level (framework) Libraries
+  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) Library for all your Android automation needs. It uses Calabash Android internally.
+  - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
+  - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
+
+- Low level (driver) Librabries
+  - [Archive Library](https://github.com/bulkan/robotframework-archivelibrary) Library for handling zip- and tar-archives.
+  - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
