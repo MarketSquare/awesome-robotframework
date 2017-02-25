@@ -66,8 +66,9 @@
 ## Resources
 
 - MOOCs
-  - [Robot Framework Test Automation - Level 1 ( Selenium )](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
-  - [Robot Framework Test Automation - Level 2](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Level 1 (udemy)](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
 
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
