@@ -72,6 +72,9 @@
 
 ## Resources
 
+- Books
+  - [Robot Framework Test Automation](https://www.packtpub.com/application-development/robot-framework-test-automation) :heavy_dollar_sign:
+
 - MOOCs
   - [Robot Framework Test Automation - Level 1 (udemy)](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
   - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
