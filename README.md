@@ -1,10 +1,10 @@
-Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-=============
+# Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="https://rawgit.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">]
 
 > A curated list of awesome Robot Framework resources and libraries
 
-Libraries
----------
+## Libraries
 
 - Standard Libraries
   - [BuiltIn](http://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
@@ -18,8 +18,7 @@ Libraries
   - [Telnet](http://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
   - [XML](http://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
 
-Tools
------
+## Tools
 
 - Built-in tools
   - [Rebot](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
@@ -64,8 +63,7 @@ Tools
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
 
-Resources
----------
+## Resources
 
 - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
 - [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
