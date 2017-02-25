@@ -4,6 +4,13 @@
 
 > A curated list of awesome Robot Framework resources and libraries
 
+## Contents
+
+- [Libraries](#libraries)
+- [Tools](#tools)
+- [Resources](#resources)
+- [Trainings](#trainings)
+
 ## Libraries
 
 - Standard Libraries
@@ -80,7 +87,7 @@
   - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/wissen/schulungen/detail/?schulung=testautomatisierung-mit-dem-robot-framework-intensivtraining) :heavy_dollar_sign:
   - [Test Automation using Robot Framework (tesena)](http://www.tesena.com/test-automation-using-robot-framework/) :heavy_dollar_sign:
   - [Scripting a Robot framework utilizing Python](http://www.softwareskillnet.ie/course/87/scripting-a-robot-framework-utilizing-python-/) :heavy_dollar_sign:
-  - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training)
+  - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
 - Live
   - [Robot Framework Online Training (prezi)](https://prezi.com/f_omeuiv3ok5/robot-framework-online-training/) :heavy_dollar_sign:
-  - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training)
+  - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
