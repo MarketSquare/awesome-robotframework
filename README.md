@@ -65,5 +65,10 @@
 
 ## Resources
 
-- [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
-- [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
+- MOOCs
+  - [Robot Framework Test Automation - Level 1 ( Selenium )](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Level 2](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
+
+- Theses
+  - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
+  - [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
