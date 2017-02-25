@@ -1,6 +1,6 @@
 # Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="https://rawgit.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">]
+[<img src="https://rawgit.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](http://robotframework.org/)
 
 > A curated list of awesome Robot Framework resources and libraries
 
