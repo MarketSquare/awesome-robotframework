@@ -42,6 +42,9 @@
  - [Diff Library](https://bulkan.github.io/robotframework-difflibrary/) Library to diff two files together.
  - [Excel Library](https://github.com/NaviNet/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
  - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
+ - [HTTP Request (Java)](https://github.com/Hi-Fi/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
+ - [HTTP Request (livetest)](https://github.com/peritus/robotframework-httplibrary) Library for HTTP level testing using livetest tool internally.
+ - [HTTP Request (Requests)](https://github.com/bulkan/robotframework-requests) Library for HTTP level testing using Request internally.
  - [IMAP Library](https://github.com/lovelysystems/robotframework-imaplibrary) Library to test mail validation tasks.
  - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
  - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
