@@ -72,6 +72,12 @@
 
 ## Resources
 
+- Official Docs
+  - [Robot Framework Introduction](https://github.com/robotframework/IntroSlides)
+  - [Quickstart Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
+  - [User Guide](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+  - [How To Write Good Test Cases](https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst)
+
 - Books
   - [Robot Framework Test Automation](https://www.packtpub.com/application-development/robot-framework-test-automation) :heavy_dollar_sign:
 
