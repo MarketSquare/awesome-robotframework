@@ -16,43 +16,45 @@
 ## Libraries
 
 - Standard Libraries
- - [BuiltIn](http://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
- - [Collections](http://robotframework.org/robotframework/latest/libraries/Collections.html) Contains keywords for handling lists and dictionaries.
- - [DateTime](http://robotframework.org/robotframework/latest/libraries/DateTime.html) Supports creating and verifying date and time values as well as calculations between them.
- - [Dialogs](http://robotframework.org/robotframework/latest/libraries/Dialogs.html) Supports pausing the test execution and getting input from users.
- - [OperatingSystem](http://robotframework.org/robotframework/latest/libraries/OperatingSystem.html) Enables performing various operating system related tasks.
- - [Process](http://robotframework.org/robotframework/latest/libraries/Process.html) Supports executing processes in the system.
- - [Screenshot](http://robotframework.org/robotframework/latest/libraries/Screenshot.html) Provides keywords to capture and store screenshots of the desktop.
- - [String](http://robotframework.org/robotframework/latest/libraries/String.html) Library for manipulating strings and verifying their contents.
- - [Telnet](http://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
- - [XML](http://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
+  - [BuiltIn](http://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
+  - [Collections](http://robotframework.org/robotframework/latest/libraries/Collections.html) Contains keywords for handling lists and dictionaries.
+  - [DateTime](http://robotframework.org/robotframework/latest/libraries/DateTime.html) Supports creating and verifying date and time values as well as calculations between them.
+  - [Dialogs](http://robotframework.org/robotframework/latest/libraries/Dialogs.html) Supports pausing the test execution and getting input from users.
+  - [OperatingSystem](http://robotframework.org/robotframework/latest/libraries/OperatingSystem.html) Enables performing various operating system related tasks.
+  - [Process](http://robotframework.org/robotframework/latest/libraries/Process.html) Supports executing processes in the system.
+  - [Screenshot](http://robotframework.org/robotframework/latest/libraries/Screenshot.html) Provides keywords to capture and store screenshots of the desktop.
+  - [String](http://robotframework.org/robotframework/latest/libraries/String.html) Library for manipulating strings and verifying their contents.
+  - [Telnet](http://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
+  - [XML](http://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
+
 - Mid level (framework) Libraries
- - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) Library for all your Android automation needs. It uses Calabash Android internally.
- - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
- - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
- - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
- - [Drupal Library](https://github.com/alterway/robotframework-drupallibrary) Library targeting Drupal sites, built on top of Selenium2Library.
- - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
- - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
- - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
+  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) Library for all your Android automation needs. It uses Calabash Android internally.
+  - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
+  - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
+  - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
+  - [Drupal Library](https://github.com/alterway/robotframework-drupallibrary) Library targeting Drupal sites, built on top of Selenium2Library.
+  - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
+  - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
+  - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
+
 - Low level (driver) Librabries
- - [AngularJS Library](https://github.com/Selenium2Library/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
- - [Archive Library](https://github.com/bulkan/robotframework-archivelibrary) Library for handling zip- and tar-archives.
- - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
- - [Database Library (Java)](https://github.com/ThomasJaspers/robotframework-dblibrary) Java-based library for database testing. Usable with Jython.
- - [Database Library (Python)](https://github.com/franz-see/Robotframework-Database-Library) Python based library for database testing. Works with any Python interpreter, including Jython.
- - [Diff Library](https://bulkan.github.io/robotframework-difflibrary/) Library to diff two files together.
- - [Excel Library](https://github.com/NaviNet/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
- - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
- - [HTTP Request (Java)](https://github.com/Hi-Fi/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
- - [HTTP Request (livetest)](https://github.com/peritus/robotframework-httplibrary) Library for HTTP level testing using livetest tool internally.
- - [HTTP Request (Requests)](https://github.com/bulkan/robotframework-requests) Library for HTTP level testing using Request internally.
- - [IMAP Library](https://github.com/lovelysystems/robotframework-imaplibrary) Library to test mail validation tasks.
- - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
- - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
- - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
- - [Rammbock](http://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
- - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
+  - [AngularJS Library](https://github.com/Selenium2Library/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
+  - [Archive Library](https://github.com/bulkan/robotframework-archivelibrary) Library for handling zip- and tar-archives.
+  - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
+  - [Database Library (Java)](https://github.com/ThomasJaspers/robotframework-dblibrary) Java-based library for database testing. Usable with Jython.
+  - [Database Library (Python)](https://github.com/franz-see/Robotframework-Database-Library) Python based library for database testing. Works with any Python interpreter, including Jython.
+  - [Diff Library](https://bulkan.github.io/robotframework-difflibrary/) Library to diff two files together.
+  - [Excel Library](https://github.com/NaviNet/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
+  - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
+  - [HTTP Request (Java)](https://github.com/Hi-Fi/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
+  - [HTTP Request (livetest)](https://github.com/peritus/robotframework-httplibrary) Library for HTTP level testing using livetest tool internally.
+  - [HTTP Request (Requests)](https://github.com/bulkan/robotframework-requests) Library for HTTP level testing using Request internally.
+  - [IMAP Library](https://github.com/lovelysystems/robotframework-imaplibrary) Library to test mail validation tasks.
+  - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
+  - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
+  - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
+  - [Rammbock](http://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
+  - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
 
 ## Tools
 
