@@ -28,7 +28,7 @@
   - [XML](http://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
 
 - Mid level (framework) Libraries
-  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) Library for all your Android automation needs. It uses Calabash Android internally.
+  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([keyword documentation](http://lovelysystems.github.io/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
   - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
   - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
   - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
