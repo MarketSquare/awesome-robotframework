@@ -64,7 +64,9 @@
 
 - Built-in tools
   - [Rebot](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
+  - [RoboMachine](https://github.com/mkorpela/RoboMachine) Model-based testing with Robot Framework.
   - [Libdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating keyword documentation for test libraries and resource files.
+  - [Pabot](https://github.com/mkorpela/pabot) Parallel executor for Robot Framework test cases.
   - [Testdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc) Generates high level HTML documentation based on Robot Framework test cases.
   - [Tidy](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
 
@@ -97,6 +99,7 @@
   - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
   - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
   - [Robot Framework - Jenkins CI & Git Version Control (udemy)](https://www.udemy.com/robot-framework-jenkins-git/) :heavy_dollar_sign:
+  - [Python + Selenium + Robot Framework](http://www.etestingacademy.com/python-selenium-robot-framework/) :heavy_dollar_sign:
 
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
