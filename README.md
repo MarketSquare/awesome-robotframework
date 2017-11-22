@@ -63,6 +63,7 @@
 ## Tools
 
 - Built-in tools
+  - [DbBot](https://github.com/robotframework/DbBot) DbBot is a tool to serialize Robot Framework test run results into a SQLite database.
   - [Rebot](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
   - [RoboMachine](https://github.com/mkorpela/RoboMachine) Model-based testing with Robot Framework.
   - [Libdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating keyword documentation for test libraries and resource files.
