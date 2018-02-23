@@ -1,8 +1,8 @@
 # Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+ [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-[<img src="https://rawgit.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](http://robotframework.org/)
+[<img src="https://raw.githubusercontent.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](http://robotframework.org/)
 
 > A curated list of awesome Robot Framework resources and libraries
 
@@ -72,7 +72,7 @@
   - [Tidy](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
 
 - Build
-  - [Jenkins plugin](https://wiki.jenkins-ci.org/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
+  - [Jenkins plugin](https://wiki.jenkins.io/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
   - [Maven plugin](http://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
@@ -100,7 +100,6 @@
   - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
   - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
   - [Robot Framework - Jenkins CI & Git Version Control (udemy)](https://www.udemy.com/robot-framework-jenkins-git/) :heavy_dollar_sign:
-  - [Python + Selenium + Robot Framework](http://www.etestingacademy.com/python-selenium-robot-framework/) :heavy_dollar_sign:
 
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
@@ -109,7 +108,7 @@
 ## Trainings
 
 - Face-to-Face
-  - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/wissen/schulungen/detail/?schulung=testautomatisierung-mit-dem-robot-framework-intensivtraining) :heavy_dollar_sign:
+  - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/leistungen/loesungen/wir-bauen-erfolgreiche-software/agile-software-factory/robot-framework/) :heavy_dollar_sign:
   - [Test Automation using Robot Framework (tesena)](http://www.tesena.com/test-automation-using-robot-framework/) :heavy_dollar_sign:
   - [Scripting a Robot framework utilizing Python](http://www.softwareskillnet.ie/course/87/scripting-a-robot-framework-utilizing-python-/) :heavy_dollar_sign:
   - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
