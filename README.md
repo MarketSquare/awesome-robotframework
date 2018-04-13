@@ -73,6 +73,7 @@
 
 - Build
   - [Jenkins plugin](https://wiki.jenkins.io/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
+  - [Robotcorder](https://chrome.google.com/webstore/detail/robotcorder/ifiilbfgcemdapeibjfohnfpfmfblmpd) Chrome plugin to record session for Robot Framework.  
   - [Maven plugin](http://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
