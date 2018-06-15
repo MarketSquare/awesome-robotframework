@@ -59,6 +59,7 @@
   - [Rammbock](http://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
   - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([keyword documentation](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
   - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
+  - [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
 
 ## Tools
 
