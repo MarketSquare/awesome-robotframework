@@ -70,6 +70,7 @@
   - [Pabot](https://github.com/mkorpela/pabot) Parallel executor for Robot Framework test cases.
   - [Testdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc) Generates high level HTML documentation based on Robot Framework test cases.
   - [Tidy](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
+  - [Remote Interface](https://github.com/robotframework/RemoteInterface) Introduction to the remote interface with a list of available remote servers.
 
 - Build
   - [Jenkins plugin](https://wiki.jenkins.io/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
