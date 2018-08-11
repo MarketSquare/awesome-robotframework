@@ -94,6 +94,17 @@
 
 ## Resources
 
+- RoboCon 2018
+  - [How Did We Get Here? Where Do We Go Next?](https://www.youtube.com/watch?v=6Kb1M3NECic&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z)
+  - [The Naked Truth About Successful Test Automation Journey](https://www.youtube.com/watch?v=Z-9XIGZBf9U&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=2)
+  - [Mega Robot Projects - What To Expect](https://www.youtube.com/watch?v=KsRP9TsZwEQ&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=3)
+  - [Robot Framework in Plone CMS Project](https://www.youtube.com/watch?v=iJEWobuwPeI&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=4)
+  - [The Importance of Open Source Communities](https://www.youtube.com/watch?v=2GDrtvz_1Ds&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=5)
+  - [Towards Contract - Based API Testing with a New Rest Json Test Library](https://www.youtube.com/watch?v=TMU4WCIq3NA&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=6)
+  - [Extending SeleniumLibrary 3.0](https://www.youtube.com/watch?v=ZPqQ-RozkYQ&index=7&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z)
+  - [Design Patterns for Efficient Multi-Platform](https://www.youtube.com/watch?v=QDaXTkiviT0&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=8)
+  - [Parallel test execution with Pabot](https://www.youtube.com/watch?v=i0RV6SJSIn8&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=9)
+
 - Official Docs
   - [Robot Framework Introduction](https://github.com/robotframework/IntroSlides)
   - [Quickstart Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
