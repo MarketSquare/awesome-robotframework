@@ -17,6 +17,8 @@
 ## Misc
 
 - [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
+- [robotkernel
+](https://github.com/datakurre/robotkernel) RobotFramework kernel for Jupyter notebooks.
 
 ## Libraries
 
