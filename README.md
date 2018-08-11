@@ -8,10 +8,15 @@
 
 ## Contents
 
+- [Misc](#misc)
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Trainings](#trainings)
+
+## Misc
+
+- [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
 
 ## Libraries
 
