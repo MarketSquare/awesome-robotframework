@@ -1,1 +1,6 @@
+title: Awesome Robot Framework
+logo: /robot_framework_logo_new.png
+description: A generic test automation framework for acceptance testing and acceptance test-driven development (ATDD).
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
