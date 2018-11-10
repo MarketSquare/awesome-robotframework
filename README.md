@@ -88,9 +88,12 @@
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
 - Editors
-  - [Atom Language Robot Framework](https://atom.io/packages/language-robot-framework) Robot Framework syntax highlighting for Atom
-  - [Autocomplete Robot Framework](https://atom.io/packages/autocomplete-robot-framework) Robot Framework autocomplete for Atom
-  - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
+  - Atom
+    - [Atom Language Robot Framework](https://atom.io/packages/language-robot-framework) Robot Framework syntax highlighting for Atom
+    - [Autocomplete Robot Framework](https://atom.io/packages/autocomplete-robot-framework) Robot Framework autocomplete for Atom
+    - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
+  - VSCode
+    - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension) Visual Studio Code extension for robot framework.
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
