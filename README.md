@@ -100,6 +100,26 @@
 
 ## Resources
 
+- RoboCon 2019
+  - [Welcome back! What's new since RoboCon 2018?](https://www.youtube.com/watch?v=wBhY5Z2RoqQ&index=2&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&t=0s)
+  - [The start of the open source RPA movement](https://www.youtube.com/watch?v=uv6dvcoxdvU&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&index=2)
+  - [Evolution of Robot Framework user](https://www.youtube.com/watch?v=ynUmfWvZxpw&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&index=3)
+  - [Decade with SeleniumLibrary and browsers' UI automation](https://www.youtube.com/watch?v=HVAnWH8t4rU&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&index=4)
+  - [RobotFramework for Embedded Software Testing](https://www.youtube.com/watch?v=0q4-AjqpO9M&index=5&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [RENAT - a network testing plugin based on Robot Framework](https://www.youtube.com/watch?v=FSjmJLq4S4A&index=6&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Robot Framework with Patient Monitors: Test Automation at GE Healthcare Finland](https://www.youtube.com/watch?v=gxbz5QJWdq4&index=7&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Practical Experiences on Evaluating Software Testing Tools](https://www.youtube.com/watch?v=2qKa3GEqcvY&index=8&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Robots from Jupyter The Future of Authoring Tests and Tasks](https://www.youtube.com/watch?v=rbYF_RmiAR8&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&index=9)
+  - [Dynamically scalable test environment on top of Kubernetes](https://www.youtube.com/watch?v=ivLsjU77Q6c&index=10&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Dynamic Generation of Model Based Testcases Using Listener Interface Version 3](https://www.youtube.com/watch?v=qtEYZ5Om1Qk&index=11&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Lightning Talks I - robotframework-whitelibrary](https://www.youtube.com/watch?v=ck_zvTq4zz8&index=12&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Lightning talk II](https://www.youtube.com/watch?v=a-27Ot_suEU&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&index=13)
+  - [Lightning talk III - DevSecOps in embedded systems](https://www.youtube.com/watch?v=hA99dYnlb-s&index=14&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Lightning talk IV - Testing Complext Graphical Applications & Games with RobotFramework](https://www.youtube.com/watch?v=g98m3XpE8gw&index=16&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&t=0s)
+  - [Lightning talk V - Robot Framework Testing in Cloud](https://www.youtube.com/watch?v=YJ4FTjxVG3o&index=17&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&t=0s)
+  - [Lightning talk VI - Robot Framework: More than just automation](https://www.youtube.com/watch?v=9HHgrLb41go&index=17&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+  - [Turning Test Results into Big Data](https://www.youtube.com/watch?v=fb42449bdz0&index=18&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
+
 - RoboCon 2018
   - [How Did We Get Here? Where Do We Go Next?](https://www.youtube.com/watch?v=6Kb1M3NECic&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z)
   - [The Naked Truth About Successful Test Automation Journey](https://www.youtube.com/watch?v=Z-9XIGZBf9U&list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z&index=2)
