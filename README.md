@@ -97,6 +97,9 @@
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
+  
+- Dashboard View
+  - [RobotFramework Metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution result with visualization.
 
 ## Resources
 
