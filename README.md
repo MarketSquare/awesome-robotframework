@@ -9,17 +9,10 @@
 
 ## Contents
 
-- [Misc](#misc)
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Trainings](#trainings)
-
-## Misc
-
-- [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
-- [robotkernel
-](https://github.com/datakurre/robotkernel) RobotFramework kernel for Jupyter notebooks.
 
 ## Libraries
 
@@ -87,11 +80,16 @@
   - [Maven plugin](http://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
+- Docker
+  - [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
+
 - Editors
   - Atom
     - [Atom Language Robot Framework](https://atom.io/packages/language-robot-framework) Robot Framework syntax highlighting for Atom
     - [Autocomplete Robot Framework](https://atom.io/packages/autocomplete-robot-framework) Robot Framework autocomplete for Atom
     - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
+  - Jupyter
+    - [robotkernel](https://github.com/datakurre/robotkernel) RobotFramework kernel for Jupyter notebooks.
   - VSCode
     - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension) Visual Studio Code extension for robot framework.
 
