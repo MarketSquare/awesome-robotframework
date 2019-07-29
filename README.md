@@ -75,14 +75,17 @@
   - [robotframework-excellib](https://pypi.org/project/robotframework-excellib/) Work with Excel documents.
   - [robotframework-eyeslibrary](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
   - [robotframework-httpctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
+  - [robotframework-ipmilibrary](https://pypi.org/project/robotframework-ipmilibrary/) Test IPMI devices.
   - [robotframework-jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
   - [robotframework-jsonvalidator](https://pypi.org/project/robotframework-jsonvalidator/) JSON validation based on JSONSchema, JSONPath, JSONSelect.
   - [robotframework-keepasslibrary](https://pypi.org/project/robotframework-keepasslibrary/) Work with KeePass databases.
   - [robotframework-kicadlibrary](https://pypi.org/project/robotframework-kicadlibrary/) Validate KiCad designs.
   - [robotframework-openstflibrary](https://pypi.org/project/robotframework-openstflibrary/) Openstf utility library.
   - [robotframework-oracledb](https://pypi.org/project/robotframework-oracledb/) Work with Oracle Databases.
+  - [robotframework-pabot](https://pypi.org/project/robotframework-pabot/) Run tests in parallel.
   - [robotframework-postgresqldb](https://pypi.org/project/robotframework-postgresqldb/) Work with PostgresSQL databases.
   - [robotframework-rabbitmq](https://pypi.org/project/robotframework-rabbitmq/) Work with RabbitMQ.
+  - [robotframework-react](https://pypi.org/project/robotframework-react/) Work with React.js based web applications.
   - [robotframework-remotetransfer](https://pypi.org/project/robotframework-remotetransfer/) Transfer screenshots from remoteserver to local machine.
   - [robotframework-requestschecker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
   - [robotframework-requestslogging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
@@ -90,6 +93,7 @@
   - [robotframework-seleniumlibrary](robotframework-seleniumlibrary) Web testing based on Selenium.
   - [robotframework-seleniumscreenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
   - [robotframework-seleniumtestability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
+  - [robotframework-snmplibrary](https://pypi.org/project/robotframework-snmplibrary/) Work with SNMP.
   - [robotframework-sshlibrary](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
   - [robotframework-sshtunnellibrary](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
   - [robotframework-stringformat](https://pypi.org/project/robotframework-stringformat/) String formatting.
@@ -99,6 +103,7 @@
   - [robotframework-webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
   - [robotframework-websockerclient](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
   - [robotframework-zookeepermanager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
+  - [robotframework-xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
   - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of libraries spanning UI, REST API, and SOAP API automation.
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
 
@@ -122,6 +127,7 @@
 
 - Docker
   - [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
+  - [robotframework-distbot](https://pypi.org/project/robotframework-distbot/) Distribute tests into multiple machines/docker containers.
 
 - Editors
   - Atom
@@ -132,6 +138,9 @@
     - [robotkernel](https://github.com/datakurre/robotkernel) RobotFramework kernel for Jupyter notebooks.
   - VSCode
     - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension) Visual Studio Code extension for robot framework.
+
+- IDEs
+  - [robotframework-workbench](https://pypi.org/project/robotframework-workbench/) Collection of tools for working with robotframework test suite and resource files.
 
 - Integrations
   - [allure-robotframework](https://pypi.org/project/allure-robotframework/#data) - Robot Framework integration for Allure.
