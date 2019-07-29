@@ -58,9 +58,49 @@
   - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
   - [NcclientLibrary](https://github.com/vkosuri/robotframework-ncclient) ([keyword documentation](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
   - [Rammbock](http://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
+  - [RESTinstance](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
   - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([keyword documentation](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
   - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
   - [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
+  - [robotframework-advancedlogging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
+  - [robotframework-apachetomcat](https://pypi.org/project/robotframework-apachetomcat/) - Manage Apache Tomcat server.
+  - [robotframework-cassandracqllibrary](https://pypi.org/project/robotframework-cassandracqllibrary/) Execute CQL statements in Cassandra Database.
+  - [robotframework-couchdbaselibrary](https://pypi.org/project/robotframework-couchbaselibrary/) Work with Couchbase.
+  - [robotframework-couchbasemanager](https://pypi.org/project/robotframework-couchbasemanager/) Manage Couchbase server.
+  - [robotframework-databaselib](https://pypi.org/project/robotframework-databaselib/) Database lib based on SQLAlchemy.
+  - [robotframework-datatime-tz](https://pypi.org/project/robotframework-datetime-tz/) Date/time with locales and time zones.
+  - [robotframework-depnendencylibrary](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
+  - [robotframework-docker](https://pypi.org/project/robotframework-docker/) Work with Docker and Docker Compose.
+  - [robotframework-excel10library](https://pypi.org/project/robotframework-excel10library/) Basic control over Excel10 (xlsx) files.
+  - [robotframework-excellib](https://pypi.org/project/robotframework-excellib/) Work with Excel documents.
+  - [robotframework-eyeslibrary](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
+  - [robotframework-httpctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
+  - [robotframework-jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
+  - [robotframework-jsonvalidator](https://pypi.org/project/robotframework-jsonvalidator/) JSON validation based on JSONSchema, JSONPath, JSONSelect.
+  - [robotframework-keepasslibrary](https://pypi.org/project/robotframework-keepasslibrary/) Work with KeePass databases.
+  - [robotframework-kicadlibrary](https://pypi.org/project/robotframework-kicadlibrary/) Validate KiCad designs.
+  - [robotframework-openstflibrary](https://pypi.org/project/robotframework-openstflibrary/) Openstf utility library.
+  - [robotframework-oracledb](https://pypi.org/project/robotframework-oracledb/) Work with Oracle Databases.
+  - [robotframework-postgresqldb](https://pypi.org/project/robotframework-postgresqldb/) Work with PostgresSQL databases.
+  - [robotframework-rabbitmq](https://pypi.org/project/robotframework-rabbitmq/) Work with RabbitMQ.
+  - [robotframework-remotetransfer](https://pypi.org/project/robotframework-remotetransfer/) Transfer screenshots from remoteserver to local machine.
+  - [robotframework-requestschecker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
+  - [robotframework-requestslogging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
+  - [robotframework-screencaplibrary](https://pypi.org/project/robotframework-screencaplibrary/) Take screenshots and videos.
+  - [robotframework-seleniumlibrary](robotframework-seleniumlibrary) Web testing based on Selenium.
+  - [robotframework-seleniumscreenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
+  - [robotframework-seleniumtestability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
+  - [robotframework-sshlibrary](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
+  - [robotframework-sshtunnellibrary](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
+  - [robotframework-stringformat](https://pypi.org/project/robotframework-stringformat/) String formatting.
+  - [robotframework-stublibrary](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
+  - [robotframework-tarantoollibrary](https://pypi.org/project/robotframework-tarantoollibrary/) Work with Tarantool DB.
+  - [robotframework-testrail](https://pypi.org/project/robotframework-testrail/) Listener and pre-run modifier for working with TestRail.
+  - [robotframework-webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
+  - [robotframework-websockerclient](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
+  - [robotframework-zookeepermanager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
+  - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of libraries spanning UI, REST API, and SOAP API automation.
+  - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
 
 ## Tools
 
