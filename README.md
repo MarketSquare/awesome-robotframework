@@ -3,7 +3,7 @@
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Build Status](https://api.travis-ci.org/fkromer/awesome-robotframework.svg)](https://travis-ci.org/fkromer/awesome-robotframework)
 
-[<img src="https://raw.githubusercontent.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](http://robotframework.org/)
+[<img src="https://raw.githubusercontent.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](https://robotframework.org/)
 
 > A curated list of awesome Robot Framework resources and libraries
 
@@ -17,16 +17,16 @@
 ## Libraries
 
 - Standard Libraries
-  - [BuiltIn](http://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
-  - [Collections](http://robotframework.org/robotframework/latest/libraries/Collections.html) Contains keywords for handling lists and dictionaries.
-  - [DateTime](http://robotframework.org/robotframework/latest/libraries/DateTime.html) Supports creating and verifying date and time values as well as calculations between them.
-  - [Dialogs](http://robotframework.org/robotframework/latest/libraries/Dialogs.html) Supports pausing the test execution and getting input from users.
-  - [OperatingSystem](http://robotframework.org/robotframework/latest/libraries/OperatingSystem.html) Enables performing various operating system related tasks.
-  - [Process](http://robotframework.org/robotframework/latest/libraries/Process.html) Supports executing processes in the system.
-  - [Screenshot](http://robotframework.org/robotframework/latest/libraries/Screenshot.html) Provides keywords to capture and store screenshots of the desktop.
-  - [String](http://robotframework.org/robotframework/latest/libraries/String.html) Library for manipulating strings and verifying their contents.
-  - [Telnet](http://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
-  - [XML](http://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
+  - [BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
+  - [Collections](https://robotframework.org/robotframework/latest/libraries/Collections.html) Contains keywords for handling lists and dictionaries.
+  - [DateTime](https://robotframework.org/robotframework/latest/libraries/DateTime.html) Supports creating and verifying date and time values as well as calculations between them.
+  - [Dialogs](https://robotframework.org/robotframework/latest/libraries/Dialogs.html) Supports pausing the test execution and getting input from users.
+  - [OperatingSystem](https://robotframework.org/robotframework/latest/libraries/OperatingSystem.html) Enables performing various operating system related tasks.
+  - [Process](https://robotframework.org/robotframework/latest/libraries/Process.html) Supports executing processes in the system.
+  - [Screenshot](https://robotframework.org/robotframework/latest/libraries/Screenshot.html) Provides keywords to capture and store screenshots of the desktop.
+  - [String](https://robotframework.org/robotframework/latest/libraries/String.html) Library for manipulating strings and verifying their contents.
+  - [Telnet](https://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
+  - [XML](https://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
 
 - Mid level (framework) Libraries
   - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([keyword documentation](http://lovelysystems.github.io/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
@@ -38,7 +38,7 @@
   - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([keyword documentation](http://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
   - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
   - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
-  - [Swing Library](https://github.com/robotframework/SwingLibrary) ([keyword documentation](http://robotframework.org/SwingLibrary/SwingLibrary-1.9.7.html)) Library for testing Java applications with Swing GUI.
+  - [Swing Library](https://github.com/robotframework/SwingLibrary) ([keyword documentation](https://robotframework.org/SwingLibrary/SwingLibrary-1.9.7.html)) Library for testing Java applications with Swing GUI.
   - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
 
 - Low level (driver) Librabries
@@ -58,7 +58,7 @@
   - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
   - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
   - [NcclientLibrary](https://github.com/vkosuri/robotframework-ncclient) ([keyword documentation](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
-  - [Rammbock](http://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
+  - [Rammbock](https://robotframework.org/Rammbock/latest/Rammbock.html) Generic network protocol test library that offers easy way to specify network packets and inspect the results of sent and received packets.
   - [RESTinstance](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
   - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([keyword documentation](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
   - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
@@ -112,18 +112,19 @@
 
 - Built-in tools
   - [DbBot](https://github.com/robotframework/DbBot) DbBot is a tool to serialize Robot Framework test run results into a SQLite database.
-  - [Rebot](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
+  - [Rebot](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
   - [RoboMachine](https://github.com/mkorpela/RoboMachine) Model-based testing with Robot Framework.
-  - [Libdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating keyword documentation for test libraries and resource files.
+  - [Libdoc](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating keyword documentation for test libraries and resource files.
   - [Pabot](https://github.com/mkorpela/pabot) Parallel executor for Robot Framework test cases.
-  - [Testdoc](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc) Generates high level HTML documentation based on Robot Framework test cases.
-  - [Tidy](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
+  - [Testdoc](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc) Generates high level HTML documentation based on Robot Framework test cases.
+  - [Tidy](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
   - [Remote Interface](https://github.com/robotframework/RemoteInterface) Introduction to the remote interface with a list of available remote servers.
+  - [rfhub2](https://github.com/pbylicki/rfhub2) Tool for collecting, browsing and sharing documentation of existing keywords written in RobotFramework and python.
 
 - Build
   - [Jenkins plugin](https://wiki.jenkins.io/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
   - [Robotcorder](https://chrome.google.com/webstore/detail/robotcorder/ifiilbfgcemdapeibjfohnfpfmfblmpd) Chrome plugin to record session for Robot Framework.  
-  - [Maven plugin](http://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
+  - [Maven plugin](https://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
 - Docker
@@ -136,7 +137,7 @@
     - [Autocomplete Robot Framework](https://atom.io/packages/autocomplete-robot-framework) Robot Framework autocomplete for Atom
     - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
   - Jupyter
-    - [robotkernel](https://github.com/datakurre/robotkernel) RobotFramework kernel for Jupyter notebooks.
+    - [robotkernel](https://github.com/robots-from-jupyter/robotkernel) RobotFramework kernel for Jupyter notebooks.
   - VSCode
     - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension) Visual Studio Code extension for robot framework.
 
@@ -189,7 +190,7 @@
 - Official Docs
   - [Robot Framework Introduction](https://github.com/robotframework/IntroSlides)
   - [Quickstart Guide](https://github.com/robotframework/QuickStartGuide/blob/master/QuickStart.rst)
-  - [User Guide](http://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
+  - [User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html)
   - [How To Write Good Test Cases](https://github.com/robotframework/HowToWriteGoodTestCases/blob/master/HowToWriteGoodTestCases.rst)
 
 - Books
@@ -198,8 +199,8 @@
 - MOOCs
   - [Robot Framework Test Automation - Level 1 (udemy)](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
   - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
-  - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
-  - [Robot Framework - Jenkins CI & Git Version Control (udemy)](https://www.udemy.com/robot-framework-jenkins-git/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/course/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
+  - [Robot Framework - Jenkins CI & Git Version Control (udemy)]( https://www.udemy.com/course/robot-framework-jenkins-git/) :heavy_dollar_sign:
 
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
@@ -208,9 +209,9 @@
 ## Trainings
 
 - Face-to-Face
-  - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/leistungen/loesungen/wir-bauen-erfolgreiche-software/agile-software-factory/robot-framework/) :heavy_dollar_sign:
-  - [Test Automation using Robot Framework (tesena)](http://www.tesena.com/test-automation-using-robot-framework/) :heavy_dollar_sign:
-  - [Scripting a Robot framework utilizing Python](http://www.softwareskillnet.ie/course/87/scripting-a-robot-framework-utilizing-python-/) :heavy_dollar_sign:
+  - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/leistungen/) :heavy_dollar_sign:
+  - [Test Automation using Robot Framework (tesena)](https://www.tesena.com/test-automation-using-robot-framework/) :heavy_dollar_sign:
+  - [Scripting a Robot framework utilizing Python](https://www.softwareskillnet.ie/course/87/scripting-a-robot-framework-utilizing-python-/) :heavy_dollar_sign:
 - Live
   - [Robot Framework Online Training (prezi)](https://prezi.com/f_omeuiv3ok5/robot-framework-online-training/) :heavy_dollar_sign:
   - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
