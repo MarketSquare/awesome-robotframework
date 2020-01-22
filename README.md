@@ -105,7 +105,7 @@
   - [robotframework-websockerclient](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
   - [robotframework-zookeepermanager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
   - [robotframework-xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
-  - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of libraries spanning UI, REST API, and SOAP API automation.
+  - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
 
 ## Tools
