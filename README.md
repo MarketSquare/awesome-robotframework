@@ -150,9 +150,12 @@
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
-  
+
 - Dashboard View
   - [RobotFramework Metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution result with visualization.
+
+- Personal Assistants
+  - [robotframework-test-assistant]](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) Use a conversational AI test assistant to control Robot Framework test suites and RPA tasks with your voice or with text commands.
 
 ## Resources
 
