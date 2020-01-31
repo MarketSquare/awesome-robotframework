@@ -151,13 +151,22 @@
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
 
-- Dashboard View
-  - [RobotFramework Metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution result with visualization.
+- Dashboard
+  - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution results
 
 - Personal Assistants
-  - [robotframework-test-assistant]](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) Use a conversational AI test assistant to control Robot Framework test suites and RPA tasks with your voice or with text commands.
+  - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) Use a conversational AI test assistant to control Robot Framework test suites and RPA tasks with your voice or with text commands.
+
+ - Performance
+   - [rfswarm](https://github.com/damies13/rfswarm) Performance testing in robotframework
+
+ - Historic
+   - [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) Library to capture and generate historical reports
 
 ## Resources
+
+- Robocon 2020
+  - [Playlist](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AZMAffD8EiTDq0lfzshRNg)
 
 - RoboCon 2019
   - [Welcome back! What's new since RoboCon 2018?](https://www.youtube.com/watch?v=wBhY5Z2RoqQ&index=2&list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt&t=0s)
