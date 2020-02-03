@@ -65,6 +65,7 @@
   - [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
   - [robotframework-advancedlogging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
   - [robotframework-apachetomcat](https://pypi.org/project/robotframework-apachetomcat/) - Manage Apache Tomcat server.
+  - [robotframework-aws](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
   - [robotframework-cassandracqllibrary](https://pypi.org/project/robotframework-cassandracqllibrary/) Execute CQL statements in Cassandra Database.
   - [robotframework-couchdbaselibrary](https://pypi.org/project/robotframework-couchbaselibrary/) Work with Couchbase.
   - [robotframework-couchbasemanager](https://pypi.org/project/robotframework-couchbasemanager/) Manage Couchbase server.
