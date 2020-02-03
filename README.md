@@ -109,6 +109,10 @@
   - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
 
+- Remote Library Examples
+  - [remote-keyword-library](https://github.com/ThomasJaspers/remote-keyword-library) An example of a Remote Server Keywords library implementation in Java featured in a blog post written by Thomas Jaspers.
+  - [robotframework-scala-remote-library](https://github.com/jg8481/robotframework-scala-remote-library) An example of a Remote Server Keywords library implementation in Scala and based on a blog post written by Thomas Jaspers.
+
 ## Tools
 
 - Built-in tools
@@ -218,6 +222,9 @@
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
   - [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
+
+- Shared Code Repositories
+  - [MarketSquare](https://github.com/MarketSquare) A community run collection of repositories for Robot Framework. Originally featured in a RoboCon 2020 lightning talk presented by Edward Manlove.
 
 ## Trainings
 
