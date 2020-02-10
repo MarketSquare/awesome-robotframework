@@ -127,7 +127,7 @@
   - [rfhub2](https://github.com/pbylicki/rfhub2) Tool for collecting, browsing and sharing documentation of existing keywords written in RobotFramework and python.
 
 - Build
-  - [Jenkins plugin](https://plugins.jenkins.io/robot) Plugin to collect and publish Robot Framework test results in Jenkins.
+  - [Jenkins plugin](https://plugins.jenkins.io/robot/) Plugin to collect and publish Robot Framework test results in Jenkins.
   - [Robotcorder](https://chrome.google.com/webstore/detail/robotcorder/ifiilbfgcemdapeibjfohnfpfmfblmpd) Chrome plugin to record session for Robot Framework.  
   - [Maven plugin](https://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
