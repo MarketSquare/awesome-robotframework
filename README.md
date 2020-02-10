@@ -138,8 +138,9 @@
     - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
   - Jupyter
     - [robotkernel](https://github.com/robots-from-jupyter/robotkernel) RobotFramework kernel for Jupyter notebooks.
-  - VSCode
-    - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension) Visual Studio Code extension for robot framework.
+  - VSCode Extensions
+    - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension)
+    - [Robot Framework Intellisense](https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense)
 
 - IDEs
   - [robotframework-workbench](https://pypi.org/project/robotframework-workbench/) Collection of tools for working with robotframework test suite and resource files.
