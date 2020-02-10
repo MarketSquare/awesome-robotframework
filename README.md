@@ -127,7 +127,7 @@
   - [rfhub2](https://github.com/pbylicki/rfhub2) Tool for collecting, browsing and sharing documentation of existing keywords written in RobotFramework and python.
 
 - Build
-  - [Jenkins plugin](https://wiki.jenkins.io/display/JENKINS/Robot+Framework+Plugin) Plugin to collect and publish Robot Framework test results in Jenkins.
+  - [Jenkins plugin](https://plugins.jenkins.io/robot) Plugin to collect and publish Robot Framework test results in Jenkins.
   - [Robotcorder](https://chrome.google.com/webstore/detail/robotcorder/ifiilbfgcemdapeibjfohnfpfmfblmpd) Chrome plugin to record session for Robot Framework.  
   - [Maven plugin](https://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
@@ -215,10 +215,10 @@
   - [Robot Framework Test Automation](https://www.packtpub.com/application-development/robot-framework-test-automation) :heavy_dollar_sign:
 
 - MOOCs
-  - [Robot Framework Test Automation - Level 1 (udemy)](https://www.udemy.com/robot-framework-level-1/) :heavy_dollar_sign:
-  - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/robot-framework-2/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Level 1 (udemy)](https://www.udemy.com/course/robot-framework-level-1/) :heavy_dollar_sign:
+  - [Robot Framework Test Automation - Level 2 (udemy)](https://www.udemy.com/course/robot-framework-2/) :heavy_dollar_sign:
   - [Robot Framework Test Automation - Saucelabs Integration (udemy)](https://www.udemy.com/course/robot-framework-saucelabs-integration/) :heavy_dollar_sign:
-  - [Robot Framework - Jenkins CI & Git Version Control (udemy)]( https://www.udemy.com/course/robot-framework-jenkins-git/) :heavy_dollar_sign:
+  - [Robot Framework - Jenkins CI & Git Version Control (udemy)](https://www.udemy.com/course/robot-framework-jenkins-git/) :heavy_dollar_sign:
 
 - Theses
   - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
