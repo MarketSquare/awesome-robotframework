@@ -236,3 +236,5 @@
 - Live
   - [Robot Framework Online Training (prezi)](https://prezi.com/f_omeuiv3ok5/robot-framework-online-training/) :heavy_dollar_sign:
   - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
+- Repo
+  - [Robot Framework Cookbook](https://github.com/adrianyorke/robotframework-cookbook)
