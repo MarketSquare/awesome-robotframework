@@ -154,6 +154,7 @@
 - Integrations
   - [allure-robotframework](https://pypi.org/project/allure-robotframework/#data) - Robot Framework integration for Allure.
   - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
+  - [RobotMK](https://robotmk.org) Robot Framework integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
