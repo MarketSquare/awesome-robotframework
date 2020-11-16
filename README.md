@@ -156,6 +156,7 @@
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
+  - [Robocop](https://github.com/MarketSquare/robotframework-robocop) Static code analysis tool for Robot Framework with use of latest robot API and many built-in rules that can be easily configured or switched off.
 
 - Dashboard
   - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution results
