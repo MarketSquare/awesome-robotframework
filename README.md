@@ -168,6 +168,9 @@
 
  - Historic
    - [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) Library to capture and generate historical reports
+   
+ - Robot Framework Executor
+   - [robotframework-executor](https://github.com/MandyYdnam/Robo_App) Gui Application to Run the Robot Framework Test. With features like parellel execution, Batch monitor, Execution Monitor, Historical Stats, Downloads Batch/execution/historical data to csv, Bookmark test cases etc.  
 
 ## Resources
 
