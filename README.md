@@ -144,6 +144,7 @@
     - [Hyperclick Robot Framework](https://atom.io/packages/hyperclick-robot-framework) Robot Framework hyperclick provider for Atom
   - Jupyter
     - [robotkernel](https://github.com/robots-from-jupyter/robotkernel) RobotFramework kernel for Jupyter notebooks.
+    - [xeus-robot](https://github.com/jupyter-xeus/xeus-robot) Jupyter kernel for Robot Framework based on the native implementation of the Jupyter protocol xeus.
   - VSCode Extensions
     - [RobotF Extension](https://marketplace.visualstudio.com/items?itemName=kmk-labs.robotf-extension)
     - [Robot Framework Intellisense](https://marketplace.visualstudio.com/items?itemName=TomiTurtiainen.rf-intellisense)
