@@ -40,6 +40,7 @@
   - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
   - [Swing Library](https://github.com/robotframework/SwingLibrary) ([keyword documentation](https://robotframework.org/SwingLibrary/SwingLibrary-1.9.7.html)) Library for testing Java applications with Swing GUI.
   - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
+  - [QWeb Library](https://www.qweblibrary.org) - Keyword based test automation for the web. ([GitHub](https://github.com/qentinelqi/qweb) | [Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
 
 - Low level (driver) Libraries
   - [AngularJS Library](https://github.com/Selenium2Library/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
