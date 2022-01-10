@@ -40,6 +40,7 @@
   - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
   - [Swing Library](https://github.com/robotframework/SwingLibrary) ([keyword documentation](https://robotframework.org/SwingLibrary/SwingLibrary-1.9.7.html)) Library for testing Java applications with Swing GUI.
   - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
+  - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
 
 - Low level (driver) Libraries
   - [AngularJS Library](https://github.com/Selenium2Library/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
