@@ -13,6 +13,7 @@
 - [Tools](#tools)
 - [Resources](#resources)
 - [Trainings](#trainings)
+- [Users](#users)
 
 ## Libraries
 
@@ -249,3 +250,9 @@
   - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
 - Repo
   - [Robot Framework Cookbook](https://github.com/adrianyorke/robotframework-cookbook)
+
+## Users
+
+- ABB Robotics
+- Agile Robotics AG
+- Kuka AG
