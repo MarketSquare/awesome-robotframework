@@ -7,6 +7,9 @@
 
 > A curated list of awesome Robot Framework resources and libraries
 
+DEPRECATION NOTICE: This repository is in the process of beeing handed over to the [robotframework organization](https://github.com/robotframework).
+Feel free to checkout the repo fork in there.
+
 ## Contents
 
 - [Libraries](#libraries)
