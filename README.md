@@ -40,7 +40,7 @@
   - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
   - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
   - [Swing Library](https://github.com/robotframework/SwingLibrary) ([keyword documentation](https://robotframework.org/SwingLibrary/SwingLibrary-1.9.7.html)) Library for testing Java applications with Swing GUI.
-  - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
+  - [Robotframework-FlaUI Library](https://github.com/GDATASoftwareAG/robotframework-flaui) Library for Windows applications like Win32, WinForms, WPF or Store Apps. It's based on the FlaUI user interface automation library.
   - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
 
 - Low level (driver) Libraries
