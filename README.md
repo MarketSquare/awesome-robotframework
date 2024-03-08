@@ -1,9 +1,9 @@
 # Awesome Robot Framework [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-<!-- Temporarily removing till fixed [![Build Status](https://api.travis-ci.org/fkromer/awesome-robotframework.svg)](https://travis-ci.org/fkromer/awesome-robotframework)  -->
+![Build Status](https://github.com/marketsquare/awesome-robotframework/actions/workflows/ci.yml/badge.svg)
 
-[<img src="https://raw.githubusercontent.com/fkromer/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](https://robotframework.org/)
+[<img src="https://raw.githubusercontent.com/marketsquare/awesome-robotframework/master/robot_framework_logo_new.png" align="right" width="86">](https://robotframework.org/)
 
 > A curated list of awesome Robot Framework resources and libraries
 
