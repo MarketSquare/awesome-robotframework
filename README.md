@@ -137,6 +137,9 @@
   - [Maven plugin](https://robotframework.org/MavenPlugin/) Maven plugin for using Robot Framework.
   - [Ant task](https://github.com/lcarbonn/robotframework-ant) Ant task for running Robot Framework tests.
 
+- Cryptocurrency or Blockchain tools
+  - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) Robot Framework tools that integrate with various Web3 blockchain technologies for testing and deploying smart contracts written in Solidity. It also provides an example (using a forked Fantom mainnet) for starting your own blockchain monitoring process.
+
 - Docker
   - [docker-robot-framework](https://github.com/ppodgorsek/docker-robot-framework) Robot Framework (with Firefox and Chrome) in Docker.
   - [robotframework-distbot](https://pypi.org/project/robotframework-distbot/) Distribute tests into multiple machines/docker containers.
