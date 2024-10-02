@@ -9,11 +9,16 @@
 
 ## Contents
 
+- [Wrappers](#wrappers)
 - [Libraries](#libraries)
 - [Tools](#tools)
 - [Resources](#resources)
 - [Trainings](#trainings)
 - [Users](#users)
+
+## Wrappers
+
+- [robotframework-webservice](https://github.com/MarketSquare/robotframework-webservice) Webservice for running Robot Framework test cases.
 
 ## Libraries
 
