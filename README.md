@@ -242,6 +242,9 @@
 - Shared Code Repositories
   - [MarketSquare](https://github.com/MarketSquare) A community run collection of repositories for Robot Framework. Originally featured in a RoboCon 2020 lightning talk presented by Edward Manlove.
 
+- Cookbooks
+  - [Robot Framework recipes](https://github.com/adrianyorke/robotframework-cookbook/)
+
 ## Trainings
 
 - Face-to-Face
