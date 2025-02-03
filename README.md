@@ -9,8 +9,7 @@
 
 ## Contents
 
-- [Awesome Robot Framework ](#awesome-robot-framework-)
-  - [Contents](#contents)
+- Awesome Robot Framework
   - [Libraries](#libraries)
   - [Tools](#tools)
   - [Resources](#resources)
