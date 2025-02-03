@@ -9,11 +9,13 @@
 
 ## Contents
 
-- [Libraries](#libraries)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Trainings](#trainings)
-- [Users](#users)
+- [Awesome Robot Framework ](#awesome-robot-framework-)
+  - [Contents](#contents)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
+  - [Resources](#resources)
+  - [Trainings](#trainings)
+  - [Users](#users)
 
 ## Libraries
 
@@ -171,7 +173,8 @@
 
 - Dashboard
   - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution results
-
+  - [robotframework-dashboard](https://github.com/timdegroot1996/robotframework-dashboard) Dashboard view that provides insight of your test results across multiple runs. 
+  - 
 - Personal Assistants
   - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) Use a conversational AI test assistant to control Robot Framework test suites and RPA tasks with your voice or with text commands.
 
