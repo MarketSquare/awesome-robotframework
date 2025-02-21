@@ -113,6 +113,7 @@
   - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
   - [robotframework-openafslibrary](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
+  - [robotframework-construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
 
 - Remote Library Examples
   - [remote-keyword-library](https://github.com/ThomasJaspers/remote-keyword-library) An example of a Remote Server Keywords library implementation in Java featured in a blog post written by Thomas Jaspers.
