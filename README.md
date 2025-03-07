@@ -36,17 +36,18 @@
   - [XML](https://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
 
 - Mid level (framework) Libraries
-  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([keyword documentation](http://www.lovelysystems.com/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
+  - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([Keywords](http://www.lovelysystems.com/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
   - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
   - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
   - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
   - [Drupal Library](https://github.com/alterway/robotframework-drupallibrary) Library targeting Drupal sites, built on top of Selenium2Library.
   - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
-  - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([keyword documentation](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
+  - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([Keywords](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
   - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
   - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
-  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([keyword documentation](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
+  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
   - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
+  - [QWeb Library](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
   - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
 
 - Low level (driver) Libraries
@@ -63,9 +64,9 @@
   - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
   - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
   - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
-  - [NcclientLibrary](https://github.com/vkosuri/robotframework-ncclient) ([keyword documentation](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
+  - [NcclientLibrary](https://github.com/vkosuri/robotframework-ncclient) ([Keywords](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
   - [RESTinstance](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
-  - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([keyword documentation](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
+  - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
   - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
   - [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
   - [robotframework-advancedlogging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
@@ -135,7 +136,7 @@
   - [DbBot](https://github.com/MarketSquare/DbBot) DbBot is a tool to serialize Robot Framework test run results into a SQLite database.
   - [Rebot](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#post-processing-outputs) Tool for generating logs and reports based on XML outputs and for combining multiple outputs together.
   - [RoboMachine](https://github.com/mkorpela/RoboMachine) Model-based testing with Robot Framework.
-  - [Libdoc](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating keyword documentation for test libraries and resource files.
+  - [Libdoc](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#libdoc) Tool for generating Keywords for test libraries and resource files.
   - [Pabot](https://github.com/mkorpela/pabot) Parallel executor for Robot Framework test cases.
   - [Testdoc](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#testdoc) Generates high level HTML documentation based on Robot Framework test cases.
   - [Tidy](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#tidy) Tool for cleaning up and changing format of Robot Framework test data files.
