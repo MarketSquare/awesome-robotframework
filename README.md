@@ -112,6 +112,9 @@
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
   - [robotframework-openafslibrary](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
 
+- Network testing
+  - [pyats.robot](https://pypi.org/project/pyats.robot/) - Sub-component of Cisco pyATS library for enabling network testing using RobotFramework.
+
 - Remote Library Examples
   - [robotframework-scala-remote-library](https://github.com/jg8481/robotframework-scala-remote-library) An example of a Remote Server Keywords library implementation in Scala and based on a blog post written by Thomas Jaspers.
 
