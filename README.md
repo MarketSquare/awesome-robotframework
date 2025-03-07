@@ -112,6 +112,9 @@
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
   - [robotframework-openafslibrary](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
 
+- Network testing
+  - [pyats.robot](https://pypi.org/project/pyats.robot/) - Sub-component of Cisco pyATS library for enabling network testing using RobotFramework.
+
 - Remote Library Examples
   - [robotframework-scala-remote-library](https://github.com/jg8481/robotframework-scala-remote-library) An example of a Remote Server Keywords library implementation in Scala and based on a blog post written by Thomas Jaspers.
 
@@ -159,6 +162,7 @@
   - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
   - [RobotMK](https://www.robotmk.org) Robot Framework integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
   - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
+  - [pytest-robotframework](https://pypi.org/project/pytest-robotframework/) - Pytest plugin that creates robotframework reports for tests written in python and allows you to run robotframework tests with Pytest.
 
 - Verification
   - [Robot Framework Lint](https://github.com/boakley/robotframework-lint) Linter for robot framework plain text files.
@@ -232,6 +236,9 @@
 
 - Shared Code Repositories
   - [MarketSquare](https://github.com/MarketSquare) A community run collection of repositories for Robot Framework. Originally featured in a RoboCon 2020 lightning talk presented by Edward Manlove.
+
+- Cookbooks
+  - [Robot Framework recipes](https://github.com/adrianyorke/robotframework-cookbook/)
 
 ## Trainings
 
