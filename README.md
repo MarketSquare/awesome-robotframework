@@ -75,7 +75,8 @@
   - [robotframework-couchbasemanager](https://pypi.org/project/robotframework-couchbasemanager/) Manage Couchbase server.
   - [robotframework-databaselib](https://pypi.org/project/robotframework-databaselib/) Database lib based on SQLAlchemy.
   - [robotframework-datatime-tz](https://pypi.org/project/robotframework-datetime-tz/) Date/time with locales and time zones.
-  - [robotframework-depnendencylibrary](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
+  - [robotframework-dependencylibrary](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
+  - [robotframework-dependencysolver](https://pypi.org/project/robotframework-dependencysolver/) A Robot Framework prerunmodifier for interdependent test cases execution.
   - [robotframework-docker](https://pypi.org/project/robotframework-docker/) Work with Docker and Docker Compose.
   - [robotframework-excel10library](https://pypi.org/project/robotframework-excel10library/) Basic control over Excel10 (xlsx) files.
   - [robotframework-excellib](https://pypi.org/project/robotframework-excellib/) Work with Excel documents.
