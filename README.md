@@ -117,6 +117,10 @@
   - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
   - [robotframework-openafslibrary](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
 
+
+- Integrations
+  - [Renode](https://renode.readthedocs.io/en/latest/introduction/testing.html#) Simulation in the loop testing for complex embedded systems based on Robot Framework.
+
 - Network testing
   - [pyats.robot](https://pypi.org/project/pyats.robot/) - Sub-component of Cisco pyATS library for enabling network testing using RobotFramework.
 
