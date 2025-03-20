@@ -207,6 +207,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
       - [Robotcode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) 
     - 
 - IDEs
+  - [RIDE (Robot Framework IDE](https://pypi.org/project/robotframework-ride/) RIDE is a lightweight and intuitive editor for Robot Framework test data.
   - [robotframework-workbench](https://pypi.org/project/robotframework-workbench/) Collection of tools for working with robotframework test suite and resource files.
 
 - Integrations
