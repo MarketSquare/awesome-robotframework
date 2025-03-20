@@ -10,20 +10,35 @@
 ## Contents
 
 - Awesome Robot Framework
-  - [Wrappers](#wrappers)
+  - [Robot Framework](#robot-framework)
+  - [Robot Framework Foundation](#robot-framework-foundation)
   - [Libraries](#libraries)
   - [Tools](#tools)
   - [Resources](#resources)
-  - [Trainings](#trainings)
-  - [Users](#users)
+  - [Wrappers](#wrappers)
+  - 
+## Robot Framework
+- [Official Website](https://robotframework.org) The official Robot Framework Website
+- [Guides](https://docs.robotframework.org/docs) The Robot Framework guides, with examples and explanations on how to use Robot Framework
+- [RFCP](https://robotframework.org/robotframework-RFCP-syllabus/) The syllabus for the Robot Framework Certified Professional Exam
+- [Robocon](https://robocon.io) The Premier Robot Framework conference, generally held in February
+- [Standard Libraries](https://robotframework.org/robotframework/#standard-libraries) The standard set of Robot Framework Libraries, included with Robot Framework. Also known as "Core Libraries"
+- [Style Guide](https://docs.robotframework.org/docs/style_guide) A community driven set of sensible rules to write your Robot Framework code.
+- [User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) Reference manual explaining all Robot Framework features in detail
 
-## Wrappers
+### Robot Framework Foundation
+The Robot Framework Foundation is a non-profit organization that supports the development and maintenance of the Robot Framework, an open-source automation tool used for acceptance testing and robotic process automation. The foundation sponsors bug fixes, ecosystem projects, reviews community contributions, and manages the framework's infrastructure, encouraging users to contribute to its ongoing development.
+- [Robot Framework Foundation](https://robotframework.org/foundation) Join the Robot Framework Foundation
 
-- [robotframework-webservice](https://github.com/MarketSquare/robotframework-webservice) Webservice for running Robot Framework test cases.
-
+## Community
+- [MarketSquare](https://marketsquare.github.io/) A community run collection of repositories for Robot Framework.
+- [Slack](https://slack.robotframework.org/) Official Robot Framework Slack Channel.
+- [Forum](https://forum.robotframework.org/) Official Robot Framework forum.
+- [LinkedIn](https://www.linkedin.com/groups/3710899/) The Robot Framework Linkedin Group
+- 
 ## Libraries
 
-- Standard Libraries
+### Core
   - [BuiltIn](https://robotframework.org/robotframework/latest/libraries/BuiltIn.html) Contains generic often needed keywords. Imported automatically and thus always available.
   - [Collections](https://robotframework.org/robotframework/latest/libraries/Collections.html) Contains keywords for handling lists and dictionaries.
   - [DateTime](https://robotframework.org/robotframework/latest/libraries/DateTime.html) Supports creating and verifying date and time values as well as calculations between them.
@@ -35,90 +50,115 @@
   - [Telnet](https://robotframework.org/robotframework/latest/libraries/Telnet.html) Supports connecting to Telnet servers and executing commands on the opened connections.
   - [XML](https://robotframework.org/robotframework/latest/libraries/XML.html) Library for verifying and modifying XML documents.
 
-- Mid level (framework) Libraries
+### App/Mobile
   - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([Keywords](http://www.lovelysystems.com/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
-  - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
   - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
+  - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
+
+### Cloud and Devops
+  - [AWS](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
+  - [Jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
+  - [Webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
+
+### Data
+  - [Datetime-TZ](https://pypi.org/project/robotframework-datetime-tz/) Date/time with locales and time zones.
+  - [Excel Library](https://github.com/NaviNet-OSS/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
+  - [Excel10library](https://pypi.org/project/robotframework-excel10library/) Basic control over Excel10 (xlsx) files.
+  - [Excel Lib](https://pypi.org/project/robotframework-excellib/) Work with Excel documents.
+  - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
+  - [JSON Validator](https://pypi.org/project/robotframework-jsonvalidator/) JSON validation based on JSONSchema, JSONPath, JSONSelect.
+  - [String Format](https://pypi.org/project/robotframework-stringformat/) String formatting.
+
+### Database
+  - [Cassandracql Library](https://pypi.org/project/robotframework-cassandracqllibrary/) Execute CQL statements in Cassandra Database.
+  - [Couchbase Library](https://pypi.org/project/robotframework-couchbaselibrary/) Work with Couchbase.
+  - [Couchbase Manager](https://pypi.org/project/robotframework-couchbasemanager/) Manage Couchbase server.
+  - [Database Library](https://github.com/MarketSquare/Robotframework-Database-Library) Python based library for database testing. Works with any Python interpreter, including Jython.
+  - [Database Library (SQLAlchemy)](https://pypi.org/project/robotframework-databaselib/) Database lib based on SQLAlchemy.
+  - [Keepass Library](https://pypi.org/project/robotframework-keepasslibrary/) Work with KeePass databases.
+  - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
+  - [Oracledb Library](https://pypi.org/project/robotframework-oracledb/) Work with Oracle Databases.
+  - [Postgresqldb Library](https://pypi.org/project/robotframework-postgresqldb/) Work with PostgresSQL databases.
+  - [Tarantool Library](https://pypi.org/project/robotframework-tarantoollibrary/) Work with Tarantool DB.
+
+### Embedded
+  - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+
+### File Handling
+  - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
+  - [OpenAFS Library](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
+  - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
+  - 
+### Frameworks
+  - [AngularJS Library](https://github.com/MarketSquare/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
   - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
   - [Drupal Library](https://github.com/alterway/robotframework-drupallibrary) Library targeting Drupal sites, built on top of Selenium2Library.
-  - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
-  - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([Keywords](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
-  - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
-  - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
-  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
-  - [White Library](https://github.com/Omenia/robotframework-whitelibrary) Wraps the White framework, for automating Windows GUI technologies (Win32, WinForms, WPF, SWT).
-  - [QWeb Library](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
-  - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
+  - [React Library](https://pypi.org/project/robotframework-react/) Work with React.js based web applications.
 
-- Low level (driver) Libraries
-  - [AngularJS Library](https://github.com/MarketSquare/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
-  - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
+### GUI And Applications
   - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
-  - [Database Library](https://github.com/MarketSquare/Robotframework-Database-Library) Python based library for database testing. Works with any Python interpreter, including Jython.
-  - [Excel Library](https://github.com/NaviNet-OSS/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
+  - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
+  - [Remote Swing Library](https://github.com/MarketSquare/remoteswinglibrary) Robot Framework library for testing and connecting to a java process and using SwingLibrary.
+  - [RoboSAPiens](https://github.com/imbus/robotframework-robosapiens) SAP GUI Automation for Humans
+  - [SapGui Library](https://github.com/frankvanderkuur/robotframework-sapguilibrary) Automate the SAP GUI Desktop client
+  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
+  - [Zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
+
+### Messaging/Communication
+  - [Confluent Kafka Library](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
   - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
+  - [HTTP Ctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
   - [HTTP Request (Java)](https://github.com/MarketSquare/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
   - [HTTP Request (livetest)](https://github.com/peritus/robotframework-httplibrary) Library for HTTP level testing using livetest tool internally.
   - [HTTP Request (Requests)](https://github.com/MarketSquare/robotframework-requests) Library for HTTP level testing using Request internally.
   - [IMAP Library](https://github.com/rickypc/robotframework-imaplibrary) Library to test IMAP email validation tasks.
-  - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
-  - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) Library for interacting with MongoDB using pymongo.
   - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
-  - [NcclientLibrary](https://github.com/vkosuri/robotframework-ncclient) ([Keywords](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
-  - [RESTinstance](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
+  - [RabbitMQ](https://pypi.org/project/robotframework-rabbitmq/) Work with RabbitMQ.
+  - [Requests Checker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
+  - [Requests Logging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
+  - [RESTinstance Library](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
+  - [SSH Library](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
+  - [SNMP Library](https://pypi.org/project/robotframework-snmplibrary/) Work with SNMP.
+  - [SSHTunnel Library](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
+  - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
   - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
-  - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
+  - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
+
+### Screenshots
+  - [Remotetransfer](https://pypi.org/project/robotframework-remotetransfer/) Transfer screenshots from remoteserver to local machine.
+  - [Screencap Library](https://pypi.org/project/robotframework-screencaplibrary/) Take screenshots and videos.
+
+### System and Network Management
+  - [Docker](https://pypi.org/project/robotframework-docker/) Work with Docker and Docker Compose.
+  - [IPMI](https://pypi.org/project/robotframework-ipmilibrary/) Test IPMI devices.
+  - [Ncclient](https://github.com/vkosuri/robotframework-ncclient) ([Keywords](https://vkosuri.github.io/robotframework-ncclient/)) Robotframework NETCONF wrapper library of ncclient.
+  - [Apache Tomcat](https://pypi.org/project/robotframework-apachetomcat/) - Manage Apache Tomcat server.
+  - [Zookeeper Manager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
+  - [Xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
+  - [WinRegistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
+
+### Testing And Debugging
+  - [Advanced Logging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
   - [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
-  - [robotframework-advancedlogging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
-  - [robotframework-apachetomcat](https://pypi.org/project/robotframework-apachetomcat/) - Manage Apache Tomcat server.
-  - [robotframework-aws](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
-  - [robotframework-browser](https://pypi.org/project/robotframework-browser/) - Automate the browser using Playwright.
-  - [robotframework-cassandracqllibrary](https://pypi.org/project/robotframework-cassandracqllibrary/) Execute CQL statements in Cassandra Database.
-  - [robotframework-confluentkafkalibrary](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
-  - [robotframework-couchdbaselibrary](https://pypi.org/project/robotframework-couchbaselibrary/) Work with Couchbase.
-  - [robotframework-couchbasemanager](https://pypi.org/project/robotframework-couchbasemanager/) Manage Couchbase server.
-  - [robotframework-databaselib](https://pypi.org/project/robotframework-databaselib/) Database lib based on SQLAlchemy.
-  - [robotframework-datatime-tz](https://pypi.org/project/robotframework-datetime-tz/) Date/time with locales and time zones.
-  - [robotframework-dependencylibrary](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
-  - [robotframework-dependencysolver](https://pypi.org/project/robotframework-dependencysolver/) A Robot Framework prerunmodifier for interdependent test cases execution.
-  - [robotframework-docker](https://pypi.org/project/robotframework-docker/) Work with Docker and Docker Compose.
-  - [robotframework-excel10library](https://pypi.org/project/robotframework-excel10library/) Basic control over Excel10 (xlsx) files.
-  - [robotframework-excellib](https://pypi.org/project/robotframework-excellib/) Work with Excel documents.
-  - [robotframework-eyeslibrary](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
-  - [robotframework-httpctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
-  - [robotframework-ipmilibrary](https://pypi.org/project/robotframework-ipmilibrary/) Test IPMI devices.
-  - [robotframework-jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
-  - [robotframework-jsonvalidator](https://pypi.org/project/robotframework-jsonvalidator/) JSON validation based on JSONSchema, JSONPath, JSONSelect.
-  - [robotframework-keepasslibrary](https://pypi.org/project/robotframework-keepasslibrary/) Work with KeePass databases.
-  - [robotframework-kicadlibrary](https://pypi.org/project/robotframework-kicadlibrary/) Validate KiCad designs.
-  - [robotframework-openstflibrary](https://pypi.org/project/robotframework-openstflibrary/) Openstf utility library.
-  - [robotframework-oracledb](https://pypi.org/project/robotframework-oracledb/) Work with Oracle Databases.
-  - [robotframework-pabot](https://pypi.org/project/robotframework-pabot/) Run tests in parallel.
-  - [robotframework-postgresqldb](https://pypi.org/project/robotframework-postgresqldb/) Work with PostgresSQL databases.
-  - [robotframework-rabbitmq](https://pypi.org/project/robotframework-rabbitmq/) Work with RabbitMQ.
-  - [robotframework-react](https://pypi.org/project/robotframework-react/) Work with React.js based web applications.
-  - [robotframework-remotetransfer](https://pypi.org/project/robotframework-remotetransfer/) Transfer screenshots from remoteserver to local machine.
-  - [robotframework-requestschecker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
-  - [robotframework-requestslogging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
-  - [robotframework-screencaplibrary](https://pypi.org/project/robotframework-screencaplibrary/) Take screenshots and videos.
-  - [robotframework-seleniumlibrary](robotframework-seleniumlibrary) Web testing based on Selenium.
-  - [robotframework-seleniumscreenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
-  - [robotframework-seleniumtestability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
-  - [robotframework-snmplibrary](https://pypi.org/project/robotframework-snmplibrary/) Work with SNMP.
-  - [robotframework-sshlibrary](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
-  - [robotframework-sshtunnellibrary](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
-  - [robotframework-stringformat](https://pypi.org/project/robotframework-stringformat/) String formatting.
-  - [robotframework-stublibrary](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
-  - [robotframework-tarantoollibrary](https://pypi.org/project/robotframework-tarantoollibrary/) Work with Tarantool DB.
-  - [robotframework-testrail](https://pypi.org/project/robotframework-testrail/) Listener and pre-run modifier for working with TestRail.
-  - [robotframework-webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
-  - [robotframework-websockerclient](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
-  - [robotframework-zookeepermanager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
-  - [robotframework-xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
-  - [robotframework-zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
-  - [winregistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
-  - [robotframework-openafslibrary](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
-  - [robotframework-construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+  - [Dependency Library](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
+  - [Dependency Solver](https://pypi.org/project/robotframework-dependencysolver/) A Robot Framework prerunmodifier for interdependent test cases execution.
+  - [Testrail](https://pypi.org/project/robotframework-testrail/) Listener and pre-run modifier for working with TestRail.
+
+### Visual Testing
+  - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
+  - [DocTestLibrary](https://github.com/manykarim/robotframework-doctestlibrary) Simple Automated Visual Document Testing.
+  - [Eyes](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
+  - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([Keywords](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
+  - [WatchUI](https://github.com/Tesena-smart-testing/WatchUI) Custom library for works with image, pdf and tesseract with RF.
+
+### Web Testing
+  - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
+  - [Browser](https://pypi.org/project/robotframework-browser/) - Automate the browser using Playwright.
+  - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
+  - [QWeb](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
+  - [Selenium Library](robotframework-seleniumlibrary) Web testing based on Selenium.
+  - [Selenium Screenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
+  - [Selenium Testability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
 
 
 - Integrations
@@ -253,17 +293,9 @@
   - [Robot Framework recipes](https://github.com/adrianyorke/robotframework-cookbook/)
 
 ## Trainings
+- [RFCP Training Providers](https://cert.robotframework.org/providers) Official page of the RFCP accredited training providers
 
-- Face-to-Face
-  - [Testautomatisierung mit dem Robot Framework - Intensivtraining (codecentric)](https://www.codecentric.de/leistungen) :heavy_dollar_sign:
-- Live
-  - [Robot Framework Online Training (prezi)](https://prezi.com/f_omeuiv3ok5/robot-framework-online-training/) :heavy_dollar_sign:
-  - [Robot Framework Certification Training (sulekha)](https://techjobs.sulekha.com/robot-framework-training) :heavy_dollar_sign:
-- Repo
-  - [Robot Framework Cookbook](https://github.com/adrianyorke/robotframework-cookbook)
+## Wrappers
 
-## Users
-
-- ABB Robotics
-- Agile Robotics AG
-- Kuka AG
+- [robotframework-webservice](https://github.com/MarketSquare/robotframework-webservice) Webservice for running Robot Framework test cases.
+- [robotframework-aio](https://robotframework-aio.org/) RobotFramework AIO (All In One) installer for both Windows and Linux.
