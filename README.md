@@ -19,9 +19,12 @@
   - 
 ## Robot Framework
 - [Official Website](https://robotframework.org) The official Robot Framework Website
-- [Guides](https://docs.robotframework.org/docs) The Robot Framework guides, with examples and 
+- [Guides](https://docs.robotframework.org/docs) The Robot Framework guides, with examples and explanations on how to use Robot Framework
 - [RFCP](https://robotframework.org/robotframework-RFCP-syllabus/) The syllabus for the Robot Framework Certified Professional Exam
-- [Robocon](https://robocon.io) The Premier Robot Framework conference, next: 2026
+- [Robocon](https://robocon.io) The Premier Robot Framework conference, generally held in February
+- [Standard Libraries](https://robotframework.org/robotframework/#standard-libraries) The standard set of Robot Framework Libraries, included with Robot Framework. Also known as "Core Libraries"
+- [Style Guide](https://docs.robotframework.org/docs/style_guide) A community driven set of sensible rules to write your Robot Framework code.
+- [User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) Reference manual explaining all Robot Framework features in detail
 
 ### Robot Framework Foundation
 The Robot Framework Foundation is a non-profit organization that supports the development and maintenance of the Robot Framework, an open-source automation tool used for acceptance testing and robotic process automation. The foundation sponsors bug fixes, ecosystem projects, reviews community contributions, and manages the framework's infrastructure, encouraging users to contribute to its ongoing development.
@@ -94,8 +97,11 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### GUI And Applications
   - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
-  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
   - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
+  - [Remote Swing Library](https://github.com/MarketSquare/remoteswinglibrary) Robot Framework library for testing and connecting to a java process and using SwingLibrary.
+  - [RoboSAPiens](https://github.com/imbus/robotframework-robosapiens) SAP GUI Automation for Humans
+  - [SapGui Library](https://github.com/frankvanderkuur/robotframework-sapguilibrary) Automate the SAP GUI Desktop client
+  - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
   - [Zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
 
 ### Messaging/Communication
@@ -140,8 +146,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Visual Testing
   - [Applitools Robot Framework](https://github.com/applitools/eyes.sdk.python/tree/develop/eyes_robotframework) Visual Verification Test Library using Applitools Eyes (Utilizes AppiumLibrary or\and SeleniumLibrary).
+  - [DocTestLibrary](https://github.com/manykarim/robotframework-doctestlibrary) Simple Automated Visual Document Testing.
   - [Eyes](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
   - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([Keywords](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
+  - [WatchUI](https://github.com/Tesena-smart-testing/WatchUI) Custom library for works with image, pdf and tesseract with RF.
 
 ### Web Testing
   - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
@@ -284,6 +292,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - Cookbooks
   - [Robot Framework recipes](https://github.com/adrianyorke/robotframework-cookbook/)
 
+## Trainings
+- [RFCP Training Providers](https://cert.robotframework.org/providers) Official page of the RFCP accredited training providers
+
 ## Wrappers
 
 - [robotframework-webservice](https://github.com/MarketSquare/robotframework-webservice) Webservice for running Robot Framework test cases.
+- [robotframework-aio](https://robotframework-aio.org/) RobotFramework AIO (All In One) installer for both Windows and Linux.
