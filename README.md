@@ -35,7 +35,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Slack](https://slack.robotframework.org/) Official Robot Framework Slack Channel.
 - [Forum](https://forum.robotframework.org/) Official Robot Framework forum.
 - [LinkedIn](https://www.linkedin.com/groups/3710899/) The Robot Framework Linkedin Group
-- 
+
 ## Libraries
 
 ### Core
@@ -88,7 +88,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
   - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
   - [OpenAFS Library](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
   - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
-  - 
+
 ### Frameworks
   - [AngularJS Library](https://github.com/MarketSquare/robotframework-angularjs) An AngularJS extention library to Robotframework's Selenium2Library.
   - [DjangoLibrary](https://kitconcept.github.io/robotframework-djangolibrary/DjangoLibraryDocs.html) Library for Django, a Python web framework.
