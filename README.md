@@ -138,6 +138,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
   - [Zookeeper Manager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
   - [Xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
   - [WinRegistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
+  - [PerfmonLibrary](https://github.com/damies13/robotframework-perfmon) Read Windows Performance Monitor Counters.
 
 ### Testing And Debugging
   - [Advanced Logging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
