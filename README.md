@@ -241,6 +241,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ## Resources
 
+- [RobotFramework Youtube Channel](https://www.youtube.com/c/RobotFrameworkChannel) with speaches from previous Robocon and [tutorials in the live section](https://www.youtube.com/@RobotFrameworkChannel/streams).
+
 - Robocon 2020
   - [Playlist](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AZMAffD8EiTDq0lfzshRNg&cbrd=1&ucbcb=1)
 
