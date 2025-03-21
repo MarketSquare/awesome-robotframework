@@ -16,6 +16,7 @@
   - [Tools](#tools)
   - [Resources](#resources)
   - [Wrappers](#wrappers)
+  
 ## Robot Framework
 - [Official Website](https://robotframework.org) The official Robot Framework Website
 - [Guides](https://docs.robotframework.org/docs) The Robot Framework guides, with examples and explanations on how to use Robot Framework
@@ -135,7 +136,6 @@ The Robot Framework Foundation is a non-profit organization that supports the de
   - [Zookeeper Manager](https://pypi.org/project/robotframework-zookeepermanager/) Manage Apache Zookeeper.
   - [Xvfb](https://pypi.org/project/robotframework-xvfb/) Interact with Xvfb.
   - [WinRegistry](https://pypi.org/project/winregistry/) Work with Windows Registry.
-  - [PerfmonLibrary](https://github.com/damies13/robotframework-perfmon) Read Windows Performance Monitor Counters.
 
 ### Testing And Debugging
   - [Advanced Logging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
@@ -202,7 +202,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
     - [xeus-robot](https://github.com/jupyter-xeus/xeus-robot) Jupyter kernel for Robot Framework based on the native implementation of the Jupyter protocol xeus.
   - [RobotCode](https://robotcode.io/) RobotCode Is a set of tools and extensions and plugins for working with Robot Framework in different IDEs, editors and on the command line.
     - VSCode Extensions
+      - [RobotCode for VSCode](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) 
     - Pycharm/Intellij
+      - [Robotcode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) 
+    - 
 - IDEs
   - [robotframework-workbench](https://pypi.org/project/robotframework-workbench/) Collection of tools for working with robotframework test suite and resource files.
 
@@ -219,6 +222,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - Dashboard
   - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) Dashboard view of execution results
+  - [robotframework-dashboard](https://github.com/timdegroot1996/robotframework-dashboard) Dashboard view that provides insight of your test results across multiple runs. 
+  - 
 - Personal Assistants
   - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) Use a conversational AI test assistant to control Robot Framework test suites and RPA tasks with your voice or with text commands.
 
@@ -227,6 +232,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
  - Historic
    - [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) Library to capture and generate historical reports
+   
  - Robot Framework Executor
    - [robotframework-executor](https://github.com/MandyYdnam/Robo_App) Gui Application to Run the Robot Framework Test. With features like parellel execution, Batch monitor, Execution Monitor, Historical Stats, Downloads Batch/execution/historical data to csv, Bookmark test cases etc.  
 
