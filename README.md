@@ -293,8 +293,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - MOOCs
 
 - Theses
-  - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen
-  - [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen
+  - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen (2006)
+  - [Web  Application  Test  Automation  with  Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen (2015)
+  - [Enabling Self-healing Locators for Robot Framework with Large Language Models](https://helda.helsinki.fi/server/api/core/bitstreams/631b961a-8642-42ed-9826-3e196eac9cf7/content) Master’s thesis, Paavo Rohamo (2024)
 
 - Shared Code Repositories
   - [MarketSquare](https://github.com/MarketSquare) A community run collection of repositories for Robot Framework. Originally featured in a RoboCon 2020 lightning talk presented by Edward Manlove.
