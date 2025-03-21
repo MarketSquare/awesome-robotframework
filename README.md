@@ -239,6 +239,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
  - Robot Framework Executor
    - [robotframework-executor](https://github.com/MandyYdnam/Robo_App) Gui Application to Run the Robot Framework Test. With features like parellel execution, Batch monitor, Execution Monitor, Historical Stats, Downloads Batch/execution/historical data to csv, Bookmark test cases etc.  
 
+ - Online Playground
+   - Released to try [tutorial examples in the browser](https://robotframework.org/code/), but can also be used to try code on different Robot Framework versions or for sharing code on forum or slack.
+   - Different number and type of files configuration can be found [here](https://github.com/Snooz82/robotframework-code-examples).
+
 ## Resources
 
 - [RobotFramework Youtube Channel](https://www.youtube.com/c/RobotFrameworkChannel) with speaches from previous Robocon and [tutorials in the live section](https://www.youtube.com/@RobotFrameworkChannel/streams).
