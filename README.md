@@ -139,6 +139,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
 - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
 - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
+- [Wi-Fi Library](https://github.com/Legrandgroup/robotframework-wificlientcontroller) Interact with wpa_supplicant and handle Wi-Fi events.
 
 ### Screenshots
 
