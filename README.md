@@ -129,6 +129,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [HTTP Request (Requests)](https://github.com/MarketSquare/robotframework-requests) Library for HTTP level testing using Request internally.
 - [IMAP Library](https://github.com/rickypc/robotframework-imaplibrary) Library to test IMAP email validation tasks.
 - [MQTT Library](https://github.com/randomsync/robotframework-mqttlibrary) Library that provides keywords for testing on MQTT brokers.
+- [UA RF TESTER](https://github.com/mikakaraila/UA-RF-TESTER) OPC UA library for functional and security testing.
 - [RabbitMQ](https://pypi.org/project/robotframework-rabbitmq/) Work with RabbitMQ.
 - [Requests Checker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
 - [Requests Logging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
