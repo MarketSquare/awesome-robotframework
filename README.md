@@ -96,6 +96,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
 
+### Fieldbus
+
+- [ModbusLibrary](https://github.com/Legrandgroup/robotframework-modbuslibrary) Modbus library.
+
 ### File Handling
 
 - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
