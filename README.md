@@ -119,6 +119,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
 - [Zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
 
+### Identity Management
+
+- [OimClient Library](robotframework-oimclientlibrary) Oracle Identity Manager testing.
+
 ### Messaging/Communication
 
 - [Confluent Kafka Library](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
