@@ -95,6 +95,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 ### Embedded
 
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+- [IPMI Library](https://github.com/kontron/robotframework-ipmilibrary) Interface hardware using the Intelligent Platform Management Interface (IPMI) specification.
 
 ### File Handling
 
