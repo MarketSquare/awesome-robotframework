@@ -95,6 +95,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 ### Embedded
 
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+- [HPI Library](https://github.com/kontron/robotframework-hpilibrary) Interface processors using the Hardware Platform Interface (HPI) specification.
 
 ### File Handling
 
