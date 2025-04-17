@@ -62,7 +62,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Cloud and Devops
 
-- [AWS](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
+- AWS
+  - [AWS](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
+  - [DynamoDBSQL Library](https://github.com/rickypc/robotframework-dynamodbsqllibrary) - An Amazon AWS DynamoDB big data testing library for Robot Framework with SQL-like DSL.
 - [Jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
 - [Webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
 - [Kubernetes](https://pypi.org/project/robotframework-kubelibrary/) - Keywords for interacting with the [Kubernetes API](https://kubernetes.io/).
