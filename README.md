@@ -267,6 +267,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ## Resources
 
+- [robotframework-cookbook](https://github.com/adrianyorke/robotframework-cookbook) - A curated list of delicious Robot Framework recipes that will help accelerate the development of test automation scripts, especially for beginner or intermediate level engineers.
 - [RobotFramework Youtube Channel](https://www.youtube.com/c/RobotFrameworkChannel) with speaches from previous Robocon and [tutorials in the live section](https://www.youtube.com/@RobotFrameworkChannel/streams).
 
 ### Robocon
