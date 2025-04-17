@@ -249,6 +249,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### AI Tools
 
+- [RobotFramework-AI](https://github.com/imbus/robotframework-ai) Adds AI functionality (generates test data, replies to messages).
 - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) - Conversational AI assistant for controlling Robot Framework test suites and RPA tasks.
 
 ### Execution Tools
