@@ -66,7 +66,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
 - [Webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
 - [Kubernetes](https://pypi.org/project/robotframework-kubelibrary/) - Keywords for interacting with the [Kubernetes API](https://kubernetes.io/).
-- [Terraform](https://pypi.org/project/robotframework-terraformlibrary/) - Infrastructure as Code via [Terraform](https://www.terraform.io/) and [OpenTofu](https://opentofu.org/).
+- [Terraform](https://pypi.org/project/robotframework-terraformlibrary/) - Infrastructure as Code via [Terraform](https://developer.hashicorp.com/terraform) and [OpenTofu](https://opentofu.org/).
 
 ### Data
 
