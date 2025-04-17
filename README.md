@@ -66,7 +66,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
 - [Webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
 - [Kubernetes](https://pypi.org/project/robotframework-kubelibrary/) - Keywords for interacting with the [Kubernetes API](https://kubernetes.io/).
-- [Terraform](https://pypi.org/project/robotframework-terraformlibrary/) - Infrastructure as Code via [Terraform](https://www.terraform.io/) and [OpenTofu](https://opentofu.org/).
+- [Terraform](https://pypi.org/project/robotframework-terraformlibrary/) - Infrastructure as Code via [Terraform](https://developer.hashicorp.com/terraform) and [OpenTofu](https://opentofu.org/).
 
 ### Data
 
@@ -118,6 +118,11 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [SapGui Library](https://github.com/frankvanderkuur/robotframework-sapguilibrary) Automate the SAP GUI Desktop client
 - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
 - [Zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
+
+### IoT
+
+- thin-edge.io
+  - [thin-edge/robotframework-devicelibrary](https://github.com/thin-edge/robotframework-devicelibrary) AWS Robotframework library for testing thin-edge.io devices.
 
 ### Messaging/Communication
 
