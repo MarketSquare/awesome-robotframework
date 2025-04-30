@@ -136,6 +136,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Cumulocity Library](https://github.com/thin-edge/robotframework-c8y) Library for Cumulocity.
 - [thin-edge/robotframework-aws](https://github.com/thin-edge/robotframework-aws) AWS Robotframework library for testing thin-edge.io with AWS.
+- [thin-edge/robotframework-devicelibrary](https://github.com/thin-edge/robotframework-devicelibrary) AWS Robotframework library for testing thin-edge.io devices.
 
 ### Messaging/Communication
 
