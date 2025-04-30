@@ -127,6 +127,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [BonjourLibrary](https://github.com/Legrandgroup/robotframework-bonjourlibrary) Testing devices announcing services using the Bonjour/mDNS protocol.
 - [Confluent Kafka Library](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
+- [DHCP Client Library](https://github.com/Legrandgroup/robotframework-dhcpclientlibrary) Library for testing DHCP servers.
+- [DHCP Server Library](https://github.com/Legrandgroup/robotframework-dhcpserverlibrary) Library for testing DHCP clients.
 - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
 - [HTTP Ctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
 - [HTTP Request (Java)](https://github.com/MarketSquare/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
