@@ -96,6 +96,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
 
+### Fieldbus
+
+- [ModbusLibrary](https://github.com/Legrandgroup/robotframework-modbuslibrary) Modbus library.
+
 ### File Handling
 
 - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
@@ -121,7 +125,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Messaging/Communication
 
+- [BonjourLibrary](https://github.com/Legrandgroup/robotframework-bonjourlibrary) Testing devices announcing services using the Bonjour/mDNS protocol.
 - [Confluent Kafka Library](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
+- [DHCP Client Library](https://github.com/Legrandgroup/robotframework-dhcpclientlibrary) Library for testing DHCP servers.
+- [DHCP Server Library](https://github.com/Legrandgroup/robotframework-dhcpserverlibrary) Library for testing DHCP clients.
 - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
 - [HTTP Ctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
 - [HTTP Request (Java)](https://github.com/MarketSquare/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
@@ -139,6 +146,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
 - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
 - [UA RF TESTER](https://github.com/mikakaraila/UA-RF-TESTER) OPC UA library for functional and security testing.
+- [UPnP/SSDP Library](https://github.com/Legrandgroup/robotframework-upnplibrary) Testing devices announcing services using the UPnP/SSDP protocol.
 - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
 
 ### Screenshots
