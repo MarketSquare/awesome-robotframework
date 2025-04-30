@@ -95,6 +95,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 ### Embedded
 
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+- [CncLibrary](https://github.com/Eficode/robotframework-cnclibrary) Control a ShapeOko 2 CNC-milling machine (controlled by Arduino based grbl motion controller connected to Raspberry Pi 2 with camera module).
 
 ### Fieldbus
 
