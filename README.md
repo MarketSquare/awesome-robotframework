@@ -94,9 +94,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Embedded
 
+- [CncLibrary](https://github.com/Eficode/robotframework-cnclibrary) Control a ShapeOko 2 CNC-milling machine (controlled by Arduino based grbl motion controller connected to Raspberry Pi 2 with camera module).
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
 - [HPI Library](https://github.com/kontron/robotframework-hpilibrary) Interface processors using the Hardware Platform Interface (HPI) specification.
-- [CncLibrary](https://github.com/Eficode/robotframework-cnclibrary) Control a ShapeOko 2 CNC-milling machine (controlled by Arduino based grbl motion controller connected to Raspberry Pi 2 with camera module).
+- [IPMI Library](https://github.com/kontron/robotframework-ipmilibrary) Interface hardware using the Intelligent Platform Management Interface (IPMI) specification.
 
 ### Fieldbus
 
