@@ -62,7 +62,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Cloud and Devops
 
-- [AWS](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
+- AWS
+  - [AWS](https://pypi.org/project/robotframework-aws/) - Keywords for interacting with AWS services in your test suites.
+  - [DynamoDBSQL Library](https://github.com/rickypc/robotframework-dynamodbsqllibrary) - An Amazon AWS DynamoDB big data testing library for Robot Framework with SQL-like DSL.
 - [Jenkins](https://pypi.org/project/robotframework-jenkins/) Jenkins interaction.
 - [Webpack](https://pypi.org/project/robotframework-webpack/) Control Webpack dev servers.
 - [Kubernetes](https://pypi.org/project/robotframework-kubelibrary/) - Keywords for interacting with the [Kubernetes API](https://kubernetes.io/).
@@ -94,7 +96,14 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Embedded
 
+- [CncLibrary](https://github.com/Eficode/robotframework-cnclibrary) Control a ShapeOko 2 CNC-milling machine (controlled by Arduino based grbl motion controller connected to Raspberry Pi 2 with camera module).
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
+- [HPI Library](https://github.com/kontron/robotframework-hpilibrary) Interface processors using the Hardware Platform Interface (HPI) specification.
+- [IPMI Library](https://github.com/kontron/robotframework-ipmilibrary) Interface hardware using the Intelligent Platform Management Interface (IPMI) specification.
+
+### Fieldbus
+
+- [ModbusLibrary](https://github.com/Legrandgroup/robotframework-modbuslibrary) Modbus library.
 
 ### File Handling
 
@@ -119,14 +128,21 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Swing Library](https://github.com/MarketSquare/SwingLibrary) ([Keywords](https://marketsquare.github.io/SwingLibrary/SwingLibrary-2.3.0.html)) Library for testing Java applications with Swing GUI.
 - [Zoomba](https://pypi.org/project/robotframework-zoomba/) Collection of testing libraries spanning GUI, REST/SOAP API, and Windows Desktop automation.
 
+### Identity Management
+
+- [OimClient Library](robotframework-oimclientlibrary) Oracle Identity Manager testing.
+
 ### IoT
 
-- thin-edge.io
-  - [thin-edge/robotframework-aws](https://github.com/thin-edge/robotframework-aws) AWS Robotframework library for testing thin-edge.io with AWS.
+- [Cumulocity Library](https://github.com/thin-edge/robotframework-c8y) Library for Cumulocity.
+- [thin-edge/robotframework-aws](https://github.com/thin-edge/robotframework-aws) AWS Robotframework library for testing thin-edge.io with AWS.
 
 ### Messaging/Communication
 
+- [BonjourLibrary](https://github.com/Legrandgroup/robotframework-bonjourlibrary) Testing devices announcing services using the Bonjour/mDNS protocol.
 - [Confluent Kafka Library](https://pypi.org/project/robotframework-confluentkafkalibrary/) Wrapper for the confluent-kafka-python.
+- [DHCP Client Library](https://github.com/Legrandgroup/robotframework-dhcpclientlibrary) Library for testing DHCP servers.
+- [DHCP Server Library](https://github.com/Legrandgroup/robotframework-dhcpserverlibrary) Library for testing DHCP clients.
 - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) Library which makes it possible to test or use FTP server using Robot Framework keywords.
 - [HTTP Ctrl](https://pypi.org/project/robotframework-httpctrl/) HTTP/HTTPS client and HTTP server services to make REST API testing easy.
 - [HTTP Request (Java)](https://github.com/MarketSquare/robotframework-httprequestlibrary) Library for HTTP level testing using Apache HTTP client.
@@ -143,6 +159,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [SSHTunnel Library](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
 - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
 - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
+- [UA RF TESTER](https://github.com/mikakaraila/UA-RF-TESTER) OPC UA library for functional and security testing.
+- [UPnP/SSDP Library](https://github.com/Legrandgroup/robotframework-upnplibrary) Testing devices announcing services using the UPnP/SSDP protocol.
 - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
 
 ### Screenshots
@@ -191,8 +209,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Integrations
 
-- [Renode](https://renode.readthedocs.io/en/latest/introduction/testing.html#) - Simulation in the loop testing for complex embedded systems based on Robot Framework.
 - [allure-robotframework](https://pypi.org/project/allure-robotframework/#data) - Robot Framework integration for Allure.
+- [Renode](https://renode.readthedocs.io/en/latest/introduction/testing.html#) - Simulation in the loop testing for complex embedded systems based on Robot Framework.
+- [robotframework-oxygen](https://github.com/eficode/robotframework-oxygen) - Convert the results of any testing tool or framework to RobotFramework's reporting.
 - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
 - [RobotMK](https://www.robotmk.org) - Integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
@@ -254,6 +273,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### AI Tools
 
+- [RobotFramework-AI](https://github.com/imbus/robotframework-ai) Adds AI functionality (generates test data, replies to messages).
 - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) - Conversational AI assistant for controlling Robot Framework test suites and RPA tasks.
 
 ### Execution Tools
@@ -272,6 +292,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ## Resources
 
+- [robotframework-cookbook](https://github.com/adrianyorke/robotframework-cookbook) - A curated list of delicious Robot Framework recipes that will help accelerate the development of test automation scripts, especially for beginner or intermediate level engineers.
 - [RobotFramework Youtube Channel](https://www.youtube.com/c/RobotFrameworkChannel) with speaches from previous Robocon and [tutorials in the live section](https://www.youtube.com/@RobotFrameworkChannel/streams).
 
 ### Robocon
