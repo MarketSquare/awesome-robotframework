@@ -132,6 +132,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [OimClient Library](robotframework-oimclientlibrary) Oracle Identity Manager testing.
 
+### IoT
+
+- [Cumulocity Library](https://github.com/thin-edge/robotframework-c8y) Library for Cumulocity.
+
 ### Messaging/Communication
 
 - [BonjourLibrary](https://github.com/Legrandgroup/robotframework-bonjourlibrary) Testing devices announcing services using the Bonjour/mDNS protocol.
