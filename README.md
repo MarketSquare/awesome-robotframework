@@ -200,8 +200,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Integrations
 
-- [Renode](https://renode.readthedocs.io/en/latest/introduction/testing.html#) - Simulation in the loop testing for complex embedded systems based on Robot Framework.
 - [allure-robotframework](https://pypi.org/project/allure-robotframework/#data) - Robot Framework integration for Allure.
+- [Renode](https://renode.readthedocs.io/en/latest/introduction/testing.html#) - Simulation in the loop testing for complex embedded systems based on Robot Framework.
+- [robotframework-oxygen](https://github.com/eficode/robotframework-oxygen) - Convert the results of any testing tool or framework to RobotFramework's reporting.
 - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
 - [RobotMK](https://www.robotmk.org) - Integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
