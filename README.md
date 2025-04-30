@@ -145,6 +145,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [SSHTunnel Library](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
 - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
 - [Suds Library](https://github.com/ombre42/robotframework-sudslibrary) ([Keywords](http://ombre42.github.io/robotframework-sudslibrary/doc/SudsLibrary.html)) Library for functional testing of SOAP-based web services with Suds, a dynamic SOAP 1.1 client.
+- [UPnP/SSDP Library](https://github.com/Legrandgroup/robotframework-upnplibrary) Testing devices announcing services using the UPnP/SSDP protocol.
 - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
 
 ### Screenshots
