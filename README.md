@@ -100,6 +100,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Construct](https://github.com/MarketSquare/robotframework-construct) Build and parse binary data.
 - [HPI Library](https://github.com/kontron/robotframework-hpilibrary) Interface processors using the Hardware Platform Interface (HPI) specification.
 - [IPMI Library](https://github.com/kontron/robotframework-ipmilibrary) Interface hardware using the Intelligent Platform Management Interface (IPMI) specification.
+- [RobotFramework_DoIP](https://github.com/test-fullautomation/robotframework-doip) Designed for interacting with Electronic Control Units (ECUs) using the Diagnostics over Internet Protocol (DoIP).
 
 ### Fieldbus
 
