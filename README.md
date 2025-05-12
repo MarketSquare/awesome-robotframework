@@ -103,6 +103,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [RobotFramework_DBus](https://github.com/test-fullautomation/robotframework-dbus) Library for DBus test automation.
 - [RobotFramework_DoIP](https://github.com/test-fullautomation/robotframework-doip) Designed for interacting with Electronic Control Units (ECUs) using the Diagnostics over Internet Protocol (DoIP).
 - [RobotFramework_UDS](https://github.com/test-fullautomation/robotframework-uds) Sending UDS (UnifiedDiagnostic Services) requests and interpreting responses from automotive electronic control units (ECUs).
+- [SerialLibrary](https://github.com/reharish/robotframework-pyserial) Serial port interface.
 
 ### Fieldbus
 
