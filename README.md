@@ -168,6 +168,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Websocket Client](https://pypi.org/project/robotframework-websocketclient/) Wrapper for the websocket-client module.
 - [Wi-Fi Library](https://github.com/Legrandgroup/robotframework-wificlientcontroller) Interact with wpa_supplicant and handle Wi-Fi events.
 
+### Monitoring
+
+- [PrometheusInterface](https://github.com/test-fullautomation/robotframework-prometheus) Communicate with the monitoring system Prometheus.
+
 ### Screenshots
 
 - [Remotetransfer](https://pypi.org/project/robotframework-remotetransfer/) Transfer screenshots from remoteserver to local machine.
