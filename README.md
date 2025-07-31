@@ -309,6 +309,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Robocon
 
+[Official Robot Framework Conference](https://www.robocon.io/)
+
 - [Playlist 2024](https://www.youtube.com/playlist?list=PLSK6YK5OGX1CECNLS7E9H2iTsWPMZrHmA)
 - [Playlist 2023](https://www.youtube.com/playlist?list=PLSK6YK5OGX1DYqe35OX0_CqE1DEP7dI9I)
 - [Playlist 2022](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AN9PSVHz1vsoSqbz3tFS_C)
@@ -316,6 +318,14 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Playlist 2020](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AZMAffD8EiTDq0lfzshRNg)
 - [Playlist 2019](https://www.youtube.com/playlist?list=PLSK6YK5OGX1D-QpVap5C7NlfurQ1dsGbt)
 - [Playlist 2018](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AUdykW4DYwNeSN_6qDE_-z)
+
+### Wrobocon
+
+[Robot Framework Conference by Polish Community](https://wrobocon.eu)
+
+- [Conference 2024](https://youtu.be/KQlBYqSI2V4)
+- [Conference 2023](https://www.youtube.com/watch?v=VHysJ8hbUPI)
+- [Conference 2022](https://www.youtube.com/watch?v=1me0OXmgLSg)
 
 ### Theses
 
