@@ -21,7 +21,7 @@
 - [Official Website](https://robotframework.org) The official Robot Framework Website
 - [Guides](https://docs.robotframework.org/docs) The Robot Framework guides, with examples and explanations on how to use Robot Framework
 - [RFCP](https://robotframework.org/robotframework-RFCP-syllabus/) The syllabus for the Robot Framework Certified Professional Exam
-- [Robocon](https://robocon.io) The Premier Robot Framework conference, generally held in February
+- [Robocon](https://www.robocon.io) The Premier Robot Framework conference, generally held in February
 - [Standard Libraries](https://robotframework.org/robotframework/#standard-libraries) The standard set of Robot Framework Libraries, included with Robot Framework. Also known as "Core Libraries"
 - [Style Guide](https://docs.robotframework.org/docs/style_guide) A community driven set of sensible rules to write your Robot Framework code.
 - [User Guide](https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html) Reference manual explaining all Robot Framework features in detail
@@ -287,7 +287,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [RobotFramework-AI](https://github.com/imbus/robotframework-ai) Adds AI functionality (generates test data, replies to messages).
 - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) - Conversational AI assistant for controlling Robot Framework test suites and RPA tasks.
 - [Robot-Framework-AI-Agent-Datadriver](https://github.com/jg8481/Robot-Framework-AI-Agent-Datadriver) - AI agent project that combines the capabilities of Codename Goose, MCP tools, the Robot Framework ecosystem, decentralized LLMs on Ollama, and Docker.
-  
+
 ### Execution Tools
 
 - [robotframework-executor](https://github.com/MandyYdnam/Robo_App) - GUI application for running Robot Framework tests with features like parallel execution, batch monitoring, and historical stats.
@@ -311,6 +311,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 [Official Robot Framework Conference](https://www.robocon.io/)
 
+- [Playlist 2025 - see youtube channel](https://www.youtube.com/@RobotFrameworkChannel)
 - [Playlist 2024](https://www.youtube.com/playlist?list=PLSK6YK5OGX1CECNLS7E9H2iTsWPMZrHmA)
 - [Playlist 2023](https://www.youtube.com/playlist?list=PLSK6YK5OGX1DYqe35OX0_CqE1DEP7dI9I)
 - [Playlist 2022](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AN9PSVHz1vsoSqbz3tFS_C)
@@ -323,7 +324,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 [Robot Framework Conference by Polish Community](https://wrobocon.eu)
 
-- [Conference 2024](https://youtu.be/KQlBYqSI2V4)
+- [Conference 2024](https://www.youtube.com/watch?v=KQlBYqSI2V4 )
 - [Conference 2023](https://www.youtube.com/watch?v=VHysJ8hbUPI)
 - [Conference 2022](https://www.youtube.com/watch?v=1me0OXmgLSg)
 
