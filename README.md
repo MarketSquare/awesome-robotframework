@@ -212,7 +212,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Browser](https://pypi.org/project/robotframework-browser/) - Automate the browser using Playwright.
 - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
 - [QWeb](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
-- [Selenium Library](robotframework-seleniumlibrary) Web testing based on Selenium.
+- [Selenium Library](https://github.com/robotframework/SeleniumLibrary) Web testing based on Selenium.
 - [Selenium Screenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
 - [Selenium Testability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
 
@@ -226,7 +226,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
 - [RobotMK](https://www.robotmk.org) - Integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
-- [pytest-robotframework](https://pypi.org/project/pytest_robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
+- [pytest-robotframework](https://pypi.org/project/pytest-robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
 
 ### Network Testing
 
@@ -306,6 +306,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [robotframework-cookbook](https://github.com/adrianyorke/robotframework-cookbook) - A curated list of delicious Robot Framework recipes that will help accelerate the development of test automation scripts, especially for beginner or intermediate level engineers.
 - [RobotFramework Youtube Channel](https://www.youtube.com/c/RobotFrameworkChannel) with speaches from previous Robocon and [tutorials in the live section](https://www.youtube.com/@RobotFrameworkChannel/streams).
+- [Pekka's Demos](https://www.youtube.com/playlist?list=PLSK6YK5OGX1BHhuGsz407aPuxPUILmzOP) - A playlist of video's demonstrating Robot Framework by its creator Pekka
 
 ### Robocon
 
@@ -324,7 +325,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 [Robot Framework Conference by Polish Community](https://wrobocon.eu)
 
-- [Conference 2024](https://www.youtube.com/watch?v=KQlBYqSI2V4 )
+- [Conference 2024](https://www.youtube.com/watch?v=KQlBYqSI2V4)
 - [Conference 2023](https://www.youtube.com/watch?v=VHysJ8hbUPI)
 - [Conference 2022](https://www.youtube.com/watch?v=1me0OXmgLSg)
 
