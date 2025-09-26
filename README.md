@@ -226,7 +226,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
 - [RobotMK](https://www.robotmk.org) - Integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
-- [pytest-robotframework](https://pypi.org/project/pytest_robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
+- [pytest-robotframework](https://pypi.org/project/pytest-robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
 
 ### Network Testing
 
