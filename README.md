@@ -212,7 +212,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Browser](https://pypi.org/project/robotframework-browser/) - Automate the browser using Playwright.
 - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
 - [QWeb](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
-- [Selenium Library](robotframework-seleniumlibrary) Web testing based on Selenium.
+- [Selenium Library](https://github.com/robotframework/SeleniumLibrary) Web testing based on Selenium.
 - [Selenium Screenshots](https://pypi.org/project/robotframework-seleniumscreenshots/) Capture annotated screenshots with SeleniumLibrary.
 - [Selenium Testability](https://pypi.org/project/robotframework-seleniumtestability/) Provides either manual or automatic waiting asyncronous events within SUT.
 
@@ -324,7 +324,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 [Robot Framework Conference by Polish Community](https://wrobocon.eu)
 
-- [Conference 2024](https://www.youtube.com/watch?v=KQlBYqSI2V4 )
+- [Conference 2024](https://www.youtube.com/watch?v=KQlBYqSI2V4)
 - [Conference 2023](https://www.youtube.com/watch?v=VHysJ8hbUPI)
 - [Conference 2022](https://www.youtube.com/watch?v=1me0OXmgLSg)
 
