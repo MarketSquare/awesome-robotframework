@@ -56,6 +56,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### App/Mobile
 
+- [ADB Library](https://github.com/ganesanluna/ADBLibrary) Library that provides Android Debug Bridge (ADB) functionalities for automated testing and device control.
 - [Android Library](https://github.com/lovelysystems/robotframework-androidlibrary) ([Keywords](http://www.lovelysystems.com/robotframework-androidlibrary/AndroidLibrary.html)) Library for all your Android automation needs. It uses Calabash Android internally.
 - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) Library for Android- and iOS-testing. It uses Appium internally.
 - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) Library for all your iOS automation needs. It uses Calabash iOS Server internally.
