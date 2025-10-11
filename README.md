@@ -126,6 +126,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### GUI And Applications
 
+- [FlaUI](https://github.com/GDATASoftwareAG/robotframework-flaui) Windows GUI testing library for applications based on Win32, WinForms, WPF or Store Apps
 - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
 - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
 - [Remote Swing Library](https://github.com/MarketSquare/remoteswinglibrary) Robot Framework library for testing and connecting to a java process and using SwingLibrary.
