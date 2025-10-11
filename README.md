@@ -237,6 +237,12 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [robotframework-scala-remote-library](https://github.com/jg8481/robotframework-scala-remote-library) - Example of a Remote Server Keywords library implementation in Scala, based on a blog post by Thomas Jaspers.
 
+### Custom Library Examples & Usage
+
+- [Robotframework-custom-library-boilerplate](https://github.com/Dattebayooooo/RobotFramework-CustomLibrary-Boilerplate) - Example of writing custom keywords library implementation in python.
+- [Obfuscation of python custom rf library](https://gist.github.com/Dattebayooooo/6974ae64dcb6933b992d8034cc340c87) - Steps to obfuscate
+- [How to use obfuscated library](https://gist.github.com/Dattebayooooo/abf3a83ada225e5fce2142fa88d211fb) - Loading Obfuscated library in Robotframework
+
 ## Tools
 
 ### Built-in Tools
