@@ -295,6 +295,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [RobotFramework-AI](https://github.com/imbus/robotframework-ai) Adds AI functionality (generates test data, replies to messages).
 - [robotframework-test-assistant](https://github.com/jg8481/leon/tree/develop/packages/robotframework-test-assistant) - Conversational AI assistant for controlling Robot Framework test suites and RPA tasks.
 - [Robot-Framework-AI-Agent-Datadriver](https://github.com/jg8481/Robot-Framework-AI-Agent-Datadriver) - AI agent project that combines the capabilities of Codename Goose, MCP tools, the Robot Framework ecosystem, decentralized LLMs on Ollama, and Docker.
+- [Result Companion](https://github.com/miltroj/result-companion) - AI-powered Robot Framework debugger — pinpoints why tests failed and how to fix them directly in log.html; supports custom analysis prompts and 100+ LLM providers.
 
 ### Execution Tools
 
