@@ -131,6 +131,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [FlaUI](https://github.com/GDATASoftwareAG/robotframework-flaui) Windows GUI testing library for applications based on Win32, WinForms, WPF or Store Apps
 - [AutoIt Library](https://code.google.com/archive/p/robotframework-autoitlibrary/) Windows GUI testing library that uses AutoIt freeware tool as a driver.
 - [Eclipse Library](https://github.com/lcarbonn/robotframework-eclipselibrary) Library for testing Eclipse RCP applications using SWT widgets.
+- [OKW4Robot](https://github.com/Hrabovszki1023/robotframework-okw4robot) Driver-agnostic keyword library for GUI test automation. One unified set of keywords for Web (Selenium), Java Swing and more — drivers are pluggable.
 - [Remote Swing Library](https://github.com/MarketSquare/remoteswinglibrary) Robot Framework library for testing and connecting to a java process and using SwingLibrary.
 - [RoboSAPiens](https://github.com/imbus/robotframework-robosapiens) SAP GUI Automation for Humans
 - [SapGui Library](https://github.com/frankvanderkuur/robotframework-sapguilibrary) Automate the SAP GUI Desktop client
@@ -216,6 +217,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [AnywhereLibrary](https://github.com/luisxiaomai/robotframework-anywherelibrary) Library for testing Single-Page Apps (SPA). Uses Selenium Webdriver and Appium internally.
 - [Browser](https://pypi.org/project/robotframework-browser/) - Automate the browser using Playwright.
+- [OKW Web Selenium](https://github.com/Hrabovszki1023/robotframework-okw-web-selenium) Selenium WebDriver plugin for OKW4Robot. Widget-based web testing with automatic synchronization, YAML locators, and polling verification.
 - [Page Object Library](https://github.com/boakley/robotframework-pageobjectlibrary) Library that makes it possible to use the page object pattern when testing web pages.
 - [QWeb](https://github.com/qentinelqi/qweb) - Keyword based test automation for the web. ([Keywords](https://qentinelqi.github.io/qweb/QWeb.html))
 - [Selenium Library](https://github.com/robotframework/SeleniumLibrary) Web testing based on Selenium.
