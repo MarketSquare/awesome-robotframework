@@ -285,7 +285,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [RobotCode](https://robotcode.io/) - Tools, extensions, and plugins for working with Robot Framework.
 - [RobotCode for VSCode](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) - VSCode extension.
 - [RobotCode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) - Plugin for PyCharm/IntelliJ.
-- [Robocop](https://robocop.dev/en/stable/) - Static code analysis tool and formatting with configurable rules.
+- [Robocop](https://robocop.dev/stable/) - Static code analysis tool and formatting with configurable rules.
 - [Find Unused](https://github.com/Lakitna/robotframework-find-unused) - CLI tool to find unused keywords, arguments, returns, and global variables across folders.
 - [RobotFramework Recorder](https://chromewebstore.google.com/detail/robotframework-recorder/jgimecbadohdchfdpajoegnbejfkndpg) - Chrome extension for recording Robot Framework steps for Selenium and Browser libraries.
 
