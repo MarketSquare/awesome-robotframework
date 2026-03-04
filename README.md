@@ -167,6 +167,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Requests Logging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
 - [RESTinstance Library](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
 - [SSH Library](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
+- [OKW Remote SSH](https://pypi.org/project/robotframework-okw-remote-ssh/) Deterministic remote command execution and SFTP file transfer via SSH with structured verification (stdout, stderr, exit code, duration) and OKW contract matching. ([Keyword Docs](https://hrabovszki1023.github.io/robotframework-okw-remote-ssh/RemoteSshLibrary.html))
 - [SNMP Library](https://pypi.org/project/robotframework-snmplibrary/) Work with SNMP.
 - [SSHTunnel Library](https://pypi.org/project/robotframework-sshtunnellibrary/) Connect to remote host using SSH Local Forwarding.
 - [Stub Library](https://pypi.org/project/robotframework-stublibrary/) For all your HTTP needs.
