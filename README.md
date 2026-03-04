@@ -199,7 +199,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Advanced Logging](https://pypi.org/project/robotframework-advancedlogging/) Create additional logs.
 - [Cache Library](https://github.com/Lakitna/robotframework-cache) Cache values across test runs to speed up test suites.
-- [Debug Library](https://github.com/xyb/robotframework-debuglibrary) Debug Library for Robot Framework
+- [Debug Library](https://github.com/imbus/robotframework-debuglibrary) Debug Library for Robot Framework
 - [Dependency Library](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
 - [Dependency Solver](https://pypi.org/project/robotframework-dependencysolver/) A Robot Framework prerunmodifier for interdependent test cases execution.
 - [Testrail](https://pypi.org/project/robotframework-testrail/) Listener and pre-run modifier for working with TestRail.
@@ -232,7 +232,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [robotframework-rp-tools](https://pypi.org/project/robotframework-rp-tools/) - Listener and visitor modules for integration with ReportPortal.
 - [RobotMK](https://www.robotmk.org) - Integration for the Open Source monitoring solution [Checkmk](https://checkmk.com).
 - [molecule-robotframework](https://pypi.org/project/molecule-robotframework/) - Ansible Molecule plugin for running molecule tests with Robot Framework.
-- [pytest-robotframework](https://pypi.org/project/pytest-robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
+- [pytest-robotframework](https://pypi.org/project/pytest_robotframework/) - Pytest plugin for creating Robot Framework reports and running tests.
 
 ### Network Testing
 
@@ -285,14 +285,14 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [RobotCode](https://robotcode.io/) - Tools, extensions, and plugins for working with Robot Framework.
 - [RobotCode for VSCode](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) - VSCode extension.
 - [RobotCode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) - Plugin for PyCharm/IntelliJ.
-- [Robocop](https://robocop.readthedocs.io/en/stable/) - Static code analysis tool and formatting with configurable rules.
+- [Robocop](https://robocop.dev/en/stable/) - Static code analysis tool and formatting with configurable rules.
 - [Find Unused](https://github.com/Lakitna/robotframework-find-unused) - CLI tool to find unused keywords, arguments, returns, and global variables across folders.
 - [RobotFramework Recorder](https://chromewebstore.google.com/detail/robotframework-recorder/jgimecbadohdchfdpajoegnbejfkndpg) - Chrome extension for recording Robot Framework steps for Selenium and Browser libraries.
 
 ### Reporting Tools
 
 - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) - Dashboard view of execution results of a single run.
-- [robotframework-dashboard](https://github.com/timdegroot1996/robotframework-dashboard) - Dashboard for insights into test results across multiple runs.
+- [robotframework-dashboard](https://github.com/MarketSquare/robotframework-dashboard) - Dashboard for insights into test results across multiple runs.
 - [DbBot](https://github.com/MarketSquare/DbBot) - Serialize Robot Framework test run results into a SQLite database.
 - [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) - Generate historical reports from test results.
 - [LibDocGen](https://pypi.org/project/robotframework-libdocgen/) - Documentation generator for Robot Framework libraries that creates clean, modern HTML/Markdown docs with global keyword search.
