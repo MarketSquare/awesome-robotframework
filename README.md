@@ -281,21 +281,21 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Development and Editing Tools
 
-- [Find Unused](https://github.com/Lakitna/robotframework-find-unused) - CLI tool to find unused keywords, arguments, returns, and global variables across folders.
 - [RIDE - Robot Framework IDE](https://github.com/robotframework/RIDE/) - Lightweight and intuitive editor for Robot Framework test data.
-- [Robocop](https://robocop.readthedocs.io/en/stable/) - Static code analysis tool and formatting with configurable rules.
 - [RobotCode](https://robotcode.io/) - Tools, extensions, and plugins for working with Robot Framework.
-- [RobotCode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) - Plugin for PyCharm/IntelliJ.
 - [RobotCode for VSCode](https://marketplace.visualstudio.com/items?itemName=d-biehl.robotcode) - VSCode extension.
+- [RobotCode for Jetbrains](https://plugins.jetbrains.com/plugin/26216-robotcode--robot-framework-support) - Plugin for PyCharm/IntelliJ.
+- [Robocop](https://robocop.readthedocs.io/en/stable/) - Static code analysis tool and formatting with configurable rules.
+- [Find Unused](https://github.com/Lakitna/robotframework-find-unused) - CLI tool to find unused keywords, arguments, returns, and global variables across folders.
 - [RobotFramework Recorder](https://chromewebstore.google.com/detail/robotframework-recorder/jgimecbadohdchfdpajoegnbejfkndpg) - Chrome extension for recording Robot Framework steps for Selenium and Browser libraries.
 
 ### Reporting Tools
 
-- [DbBot](https://github.com/MarketSquare/DbBot) - Serialize Robot Framework test run results into a SQLite database.
-- [LibDocGen](https://pypi.org/project/robotframework-libdocgen/) - Documentation generator for Robot Framework libraries that creates clean, modern HTML/Markdown docs with global keyword search.
-- [robotframework-dashboard](https://github.com/timdegroot1996/robotframework-dashboard) - Dashboard for insights into test results across multiple runs.
-- [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) - Generate historical reports from test results.
 - [robotframework-metrics](https://github.com/adiralashiva8/robotframework-metrics) - Dashboard view of execution results of a single run.
+- [robotframework-dashboard](https://github.com/timdegroot1996/robotframework-dashboard) - Dashboard for insights into test results across multiple runs.
+- [DbBot](https://github.com/MarketSquare/DbBot) - Serialize Robot Framework test run results into a SQLite database.
+- [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) - Generate historical reports from test results.
+- [LibDocGen](https://pypi.org/project/robotframework-libdocgen/) - Documentation generator for Robot Framework libraries that creates clean, modern HTML/Markdown docs with global keyword search.
 
 ### AI Tools
 
