@@ -205,6 +205,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Dependency Library](https://pypi.org/project/robotframework-dependencylibrary/) Declare dependencies between Robot Framework tests.
 - [Dependency Solver](https://pypi.org/project/robotframework-dependencysolver/) A Robot Framework prerunmodifier for interdependent test cases execution.
 - [Testrail](https://pypi.org/project/robotframework-testrail/) Listener and pre-run modifier for working with TestRail.
+- [RobotLiveTrace](https://github.com/iDentitY4/robotframework-live-trace) Real-time GUI dashboard for visualizing test execution keyword call stacks and logs.
 
 ### Visual Testing
 
