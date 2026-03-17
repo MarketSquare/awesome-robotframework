@@ -213,6 +213,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Eyes](https://pypi.org/project/robotframework-eyeslibrary/) To automate visual software testing.
 - [ImageHorizonLibrary](https://github.com/Eficode/robotframework-imagehorizonlibrary) ([Keywords](https://eficode.github.io/robotframework-imagehorizonlibrary/doc/ImageHorizonLibrary.html)) Cross-platform, pure Python library for GUI automation based on image recognition.
 - [WatchUI](https://github.com/Tesena-smart-testing/WatchUI) Custom library for works with image, pdf and tesseract with RF.
+- [Wopee_rf](https://github.com/autonomous-testing/wopee.rf) Visual regression testing library with AI-powered autonomous test maintenance and self-healing.
 
 ### Web Testing
 
