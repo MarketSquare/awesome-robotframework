@@ -276,6 +276,10 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Robot Framework Solidity Testing Toolkit](https://github.com/jg8481/Robot-Framework-Solidity-Testing-Toolkit) - A toolkit for testing, deploying, and monitoring Solidity smart contracts on EVM-compatible blockchains using Robot Framework, with support for local clean-room environments and multichain setups.
 
+### Salesforce
+
+- [Salesforce Files Downloader](https://github.com/b-vamsipunnam/salesforce-files-downloader-tool) - Robot Framework-based tool using Pabot for parallel execution to bulk download Salesforce files and generate Data Loader-compatible artifacts for migration, backup, and org refresh workflows.
+
 ### Containerization
 
 - [BrowserLibraryDocker](https://hub.docker.com/r/marketsquare/robotframework-browser/tags?page=1&ordering=last_updated) - Docker image for Robot Framework with BrowserLibrary.
