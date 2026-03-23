@@ -81,6 +81,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [JSON Schema Library](https://github.com/jstaffans/robotframework-jsonschemalibrary) JSON Schema validation library for Robot Framework.
 - [JSON Validator](https://pypi.org/project/robotframework-jsonvalidator/) JSON validation based on JSONSchema, JSONPath, JSONSelect.
 - [String Format](https://pypi.org/project/robotframework-stringformat/) String formatting.
+- [SynData](https://pypi.org/project/robotframework-syndata/) Library for generating synthetic test data with logging and a "playback function".
 - [XML Validator](https://pypi.org/project/robotframework-xmlvalidator/) A Robot Framework library for validating XML files against XSD schemas.
 
 ### Database
