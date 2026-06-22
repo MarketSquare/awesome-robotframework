@@ -167,6 +167,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Requests Checker](https://pypi.org/project/robotframework-requestschecker/) Check HTTP Response Status Codes.
 - [Requests Logging](https://pypi.org/project/robotframework-requestslogger/) Log HTTP requests and responses.
 - [RESTinstance Library](https://pypi.org/project/RESTinstance/) Robot Framework test library for (RESTful) JSON APIs.
+- [OKW API REST](https://pypi.org/project/robotframework-okw-api-rest/) Keyword-driven REST API testing for OKW4Robot. Phase-based workflow (Start → Scope → Input → Action → Verify → Memorize → Stop), auto type detection, nested JSON via SetContext, file upload, OKW token support ($IGNORE, $EMPTY, $NULL), and three match modes (EXACT, WCM, REGX). ([Keyword Docs](https://hrabovszki1023.github.io/robotframework-okw-api-rest/OkwApiRestLibrary.html))
 - [SSH Library](https://pypi.org/project/robotframework-sshlibrary/) Test library for SSH and SFTP.
 - [OKW Remote SSH](https://pypi.org/project/robotframework-okw-remote-ssh/) Deterministic remote command execution and SFTP file transfer via SSH with structured verification (stdout, stderr, exit code, duration) and OKW contract matching. ([Keyword Docs](https://hrabovszki1023.github.io/robotframework-okw-remote-ssh/RemoteSshLibrary.html))
 - [SNMP Library](https://pypi.org/project/robotframework-snmplibrary/) Work with SNMP.
