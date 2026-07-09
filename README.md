@@ -301,6 +301,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Robocop](https://robocop.dev/stable/) - Static code analysis tool and formatting with configurable rules.
 - [Find Unused](https://github.com/Lakitna/robotframework-find-unused) - CLI tool to find unused keywords, arguments, returns, and global variables across folders.
 - [RobotFramework Recorder](https://chromewebstore.google.com/detail/robotframework-recorder/jgimecbadohdchfdpajoegnbejfkndpg) - Chrome extension for recording Robot Framework steps for Selenium and Browser libraries.
+- [robotframework-falsegreen](https://github.com/vinicq/robotframework-falsegreen) - Static scan that finds tests passing green without verifying anything (no oracle, swallowed failures, always-true checks), via the official robot.api.
 
 ### Reporting Tools
 
