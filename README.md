@@ -346,7 +346,9 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 [Official Robot Framework Conference](https://www.robocon.io/)
 
-- [Playlist 2025 - see youtube channel](https://www.youtube.com/@RobotFrameworkChannel)
+- [CFP 2027](https://pretalx.com/robocon-2027/cfp) - Call for Proposals open until October 4, 2026
+- [Videos 2026 - see youtube channel](https://www.youtube.com/@RobotFrameworkChannel) (no playlist yet)
+- [Playlist 2025](https://www.youtube.com/playlist?list=PLSK6YK5OGX1A1rYDyB-2bVgJcXAwhe62G)
 - [Playlist 2024](https://www.youtube.com/playlist?list=PLSK6YK5OGX1CECNLS7E9H2iTsWPMZrHmA)
 - [Playlist 2023](https://www.youtube.com/playlist?list=PLSK6YK5OGX1DYqe35OX0_CqE1DEP7dI9I)
 - [Playlist 2022](https://www.youtube.com/playlist?list=PLSK6YK5OGX1AN9PSVHz1vsoSqbz3tFS_C)
