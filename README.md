@@ -311,6 +311,8 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [DbBot](https://github.com/MarketSquare/DbBot) - Serialize Robot Framework test run results into a SQLite database.
 - [robotframework-historic](https://github.com/adiralashiva8/robotframework-historic) - Generate historical reports from test results.
 - [LibDocGen](https://pypi.org/project/robotframework-libdocgen/) - Documentation generator for Robot Framework libraries that creates clean, modern HTML/Markdown docs with global keyword search.
+- [ReportLens](https://github.com/deekshith-poojary98/robotframework-reportlens) - An open-source tool that converts Robot Framework "output.xml" files into a modern, interactive, single-file HTML report for easier debugging and navigation of test execution results.
+- [LibToc](https://github.com/amochin/robotframework-libtoc) - This tool generates docs using Robot Framework Libdoc for an entire folder (or multiple folders) with Robot Framework resources/libs and creates a TOC (table of contents) file for them.
 
 ### AI Tools
 
