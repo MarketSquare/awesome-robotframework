@@ -74,6 +74,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 ### Data
 
+- [Mimesis Library](https://github.com/sinanerdinc/robotframework-mimesislibrary) Multi-locale synthetic test data generation.
 - [Datetime-TZ](https://pypi.org/project/robotframework-datetime-tz/) Date/time with locales and time zones.
 - [Excel Library](https://github.com/NaviNet-OSS/robotframework-excellibrary) Library which provides keywords to allow opening, reading, writing and saving Excel files.
 - [Excel10library](https://pypi.org/project/robotframework-excel10library/) Basic control over Excel10 (xlsx) files.
