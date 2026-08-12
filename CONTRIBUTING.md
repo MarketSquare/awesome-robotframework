@@ -1,13 +1,11 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
-
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
 
 ## Table of Contents
 
 - [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
+- [Maintainer helper scripts](#maintainer-helper-scripts)
 - [Adding something to an awesome list](#adding-something-to-an-awesome-list)
 - [Updating your Pull Request](#updating-your-pull-request)
 
@@ -29,9 +27,14 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-## Creating your own awesome list
+## Maintainer helper scripts
 
-To create your own list, check out the [instructions](create-list.md).
+Two standalone Python scripts at the repo root help maintainers discover new entries for this list, outside of incoming PRs:
+
+- `query_github` - Lists GitHub repositories tagged with the `robotframework` topic, along with their owners and websites. Requires `GIT_USER`/`GIT_PASSWORD` environment variables and the `PyGithub` package.
+- `query_pypi` - Lists PyPI projects using the `Framework :: Robot Framework` trove classifiers (and its `Library`/`Tool` sub-classifiers).
+
+Neither script is run automatically; run them locally when looking for candidates to add.
 
 ## Adding something to an awesome list
 
