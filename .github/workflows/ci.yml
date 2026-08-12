@@ -20,8 +20,12 @@ jobs:
       - name: Install gem
         run: gem install awesome_bot
       - name: Check links
+        # -d forces awesome_bot to check links one at a time instead of its
+        # default 10 concurrent threads; that concurrent burst against
+        # github.com is what was triggering GitHub rate-limit 503s and
+        # dropped connections, not actually broken links.
         run: |
-          awesome_bot README.md --allow-dupe -w robotframework.org,linkedin.com,theseus.fi
+          awesome_bot README.md --allow-dupe --allow 429,503 -d 0.5 -t 15 -w robotframework.org,linkedin.com,theseus.fi
       - name: Check awesome-list conventions
         # Informational only: the list intentionally keeps some conventions
         # awesome-lint disagrees with (back-to-top links, repeated domain
