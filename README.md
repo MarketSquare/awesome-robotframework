@@ -119,6 +119,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 ### File Handling
 
 - [Archive Library](https://github.com/MarketSquare/robotframework-archivelibrary) Library for handling zip- and tar-archives.
+- [File Watcher Library](https://github.com/deekshith-poojary98/robotframework-filewatcher) Library for monitoring file creation, modification, deletion, and stability using native OS filesystem events.
 - [OpenAFS Library](https://pypi.org/project/robotframework-openafslibrary/) Test library for the OpenAFS distributed filesystem.
 - [UNIX Filesystem Library](https://github.com/ChrisHirsch/robotframework-unixfilesystem) Unix filesystem testing for Robot Framework.
 
@@ -371,7 +372,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Data-Driven and Keyword-Driven Test Automation Frameworks](http://eliga.fi/Thesis-Pekka-Laukkanen.pdf) Master's Thesis, Pekka Laukkanen (2006)
 - [Web Application Test Automation with Robot Framework](https://www.theseus.fi/bitstream/handle/10024/93164/Thesis_Jani_Luostarinen_v1_0.pdf?sequence=1) Bachelor's Thesis, Jani Luostarinen (2015)
 - [RF performance testing using Robot Framework](https://www.theseus.fi/bitstream/handle/10024/118485/Ollanketo_Joni.pdf) Joni Ollanketo (2016)
-- [Enabling Self-healing Locators for Robot Framework with Large Language Models](https://helda.helsinki.fi/server/api/core/bitstreams/631b961a-8642-42ed-9826-3e196eac9cf7/content) Master’s thesis, Paavo Rohamo (2024)
+- [Enabling Self-healing Locators for Robot Framework with Large Language Models](https://helda.helsinki.fi/items/8cdf6a7e-bcfa-45bb-a0ed-caae6b20df4d) Master’s thesis, Paavo Rohamo (2024)
 
 ## Trainings
 
