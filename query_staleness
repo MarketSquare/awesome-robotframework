@@ -1,0 +1,131 @@
+#!/usr/bin/env python3
+"""Report README entries whose GitHub repo or PyPI package looks unmaintained.
+
+Every GitHub link is checked for its last push date and archived flag. Every
+PyPI link is checked for its last release date and, when the project metadata
+points at a GitHub repository, for that repository's last push date too -- a
+library can be actively developed long after its most recent release.
+
+Entries with no activity for THRESHOLD_YEARS get a maintenance marker in
+README.md:
+
+    *No updates since YYYY.*
+    *Archived; no updates since YYYY.*
+
+Requires the `gh` CLI, authenticated (`gh auth login`), for the GitHub calls.
+
+Usage:
+    ./query_staleness            # report only
+    ./query_staleness --write    # report and update README.md in place
+"""
+
+import datetime
+import json
+import re
+import subprocess
+import sys
+import urllib.request
+
+README = "README.md"
+THRESHOLD_YEARS = 3
+ENTRY = re.compile(r"^- \[([^\]]+)\]\((https?://[^)]+)\)(.*)$")
+MARKER = re.compile(r" \*(?:No updates since \d{4}|Archived; no updates since \d{4})\.\*")
+
+
+def github_repo(url):
+    """Return "owner/name" for a GitHub project URL, or None."""
+    match = re.search(r"github\.com/([^/]+)/([^/#?\s]+)", url or "")
+    if not match or "gist." in url:
+        return None
+    return f"{match.group(1)}/{match.group(2).removesuffix('.git')}"
+
+
+def github_activity(repo):
+    """Return (last push date, archived flag) for a repo, or None."""
+    result = subprocess.run(["gh", "api", f"repos/{repo}"],
+                            capture_output=True, text=True)
+    if result.returncode != 0:
+        return None
+    data = json.loads(result.stdout)
+    return data["pushed_at"][:10], data["archived"]
+
+
+def pypi_metadata(package):
+    url = f"https://pypi.org/pypi/{package}/json"
+    try:
+        with urllib.request.urlopen(url, timeout=20) as response:
+            return json.load(response)
+    except Exception:
+        return None
+
+
+def check(url):
+    """Return (last activity date, archived flag) for a link, or None."""
+    repo = github_repo(url)
+    if repo:
+        return github_activity(repo)
+
+    if "pypi.org/project/" not in url:
+        return None
+    package = url.split("pypi.org/project/", 1)[1].strip("/").split("/")[0]
+    data = pypi_metadata(package)
+    if data is None:
+        return None
+    uploads = [upload["upload_time"][:10]
+               for release in data["releases"].values() for upload in release]
+    last = max(uploads) if uploads else "0000-00-00"
+
+    # The PyPI release may lag the repository by years; prefer the newer one.
+    archived = False
+    info = data["info"]
+    candidates = list((info.get("project_urls") or {}).values())
+    candidates.append(info.get("home_page") or "")
+    for candidate in candidates:
+        repo = github_repo(candidate or "")
+        if not repo:
+            continue
+        activity = github_activity(repo)
+        if activity:
+            last = max(last, activity[0])
+            archived = activity[1]
+        break
+    return last, archived
+
+
+def main():
+    write = "--write" in sys.argv
+    cutoff = (datetime.date.today()
+              - datetime.timedelta(days=365 * THRESHOLD_YEARS)).isoformat()
+
+    lines = open(README).readlines()
+    stale = {}
+    for number, line in enumerate(lines, 1):
+        match = ENTRY.match(line.rstrip("\n"))
+        if not match:
+            continue
+        name, url, _ = match.groups()
+        activity = check(url)
+        if activity is None:
+            continue
+        last, archived = activity
+        if last >= cutoff:
+            continue
+        stale[number] = (last, archived)
+        print(f"{number}\t{last}\t{'archived' if archived else '-'}\t{name}")
+
+    print(f"\n{len(stale)} stale entries (no activity since {cutoff})")
+    if not write:
+        return
+
+    for number, (last, archived) in stale.items():
+        line = MARKER.sub("", lines[number - 1].rstrip("\n"))
+        if not line.endswith("."):
+            line += "."
+        marker = "Archived; no updates since" if archived else "No updates since"
+        lines[number - 1] = f"{line} *{marker} {last[:4]}.*\n"
+    open(README, "w").writelines(lines)
+    print(f"Updated {README}")
+
+
+if __name__ == "__main__":
+    main()

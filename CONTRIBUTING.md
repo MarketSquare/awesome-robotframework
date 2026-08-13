@@ -33,8 +33,18 @@ Two standalone Python scripts at the repo root help maintainers discover new ent
 
 - `query_github` - Lists GitHub repositories tagged with the `robotframework` topic, along with their owners and websites. Requires `GIT_USER`/`GIT_PASSWORD` environment variables and the `PyGithub` package.
 - `query_pypi` - Lists PyPI projects using the `Framework :: Robot Framework` trove classifiers (and its `Library`/`Tool` sub-classifiers).
+- `query_staleness` - Reports entries whose GitHub repository or PyPI package has seen no activity for three years, and with `--write` adds the maintenance markers described below. Requires an authenticated `gh` CLI.
 
-Neither script is run automatically; run them locally when looking for candidates to add.
+None of these scripts are run automatically; run them locally when looking for candidates to add or when refreshing the maintenance markers.
+
+## Maintenance markers
+
+Entries that have had no commits or releases for at least three years carry a marker at the end of their description:
+
+- `*No updates since YYYY.*`
+- `*Archived; no updates since YYYY.*` when the upstream repository is archived.
+
+Such entries are not removed - they may still work, or be useful as a reference - but readers deserve the warning. Apply the markers with `query_staleness --write` rather than by hand, so the three-year rule is applied to every entry equally. For a PyPI-linked entry the script also checks the upstream repository, because a library can be actively developed long after its last release.
 
 ## Adding something to an awesome list
 
