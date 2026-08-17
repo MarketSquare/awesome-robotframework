@@ -206,6 +206,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [DHCP Client Library](https://github.com/Legrandgroup/robotframework-dhcpclientlibrary) - Library for testing DHCP servers. *No updates since 2019.*
 - [DHCP Server Library](https://github.com/Legrandgroup/robotframework-dhcpserverlibrary) - Library for testing DHCP clients. *No updates since 2019.*
 - [FTP Library](https://github.com/kowalpy/Robot-Framework-FTP-Library) - Library which makes it possible to test or use FTP server using Robot Framework keywords.
+- [GraphQL Library](https://github.com/MobyNL/robotframework-graphqllibrary) ([Keywords](https://mobynl.github.io/robotframework-graphqllibrary/)) - Library for testing GraphQL APIs, with session management, query execution, response assertions and schema introspection.
 - [HTTP Ctrl](https://pypi.org/project/robotframework-httpctrl/) - HTTP/HTTPS client and HTTP server services to make REST API testing easy.
 - [HTTP Request (Java)](https://github.com/MarketSquare/robotframework-httprequestlibrary) - Library for HTTP level testing using Apache HTTP client.
 - [HTTP Request (livetest)](https://github.com/peritus/robotframework-httplibrary) - Library for HTTP level testing using livetest tool internally. *No updates since 2021.*
