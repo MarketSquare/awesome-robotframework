@@ -140,7 +140,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Database Library (SQLAlchemy)](https://pypi.org/project/robotframework-databaselib/) - Database lib based on SQLAlchemy. *No updates since 2019.*
 - [Keepass Library](https://pypi.org/project/robotframework-keepasslibrary/) - Work with KeePass databases.
 - [MongoDB Library](https://github.com/iPlantCollaborativeOpenSource/Robotframework-MongoDB-Library#readme) - Library for interacting with MongoDB using pymongo. *No updates since 2019.*
-- [MongoDB Library (pymongo 4)](https://github.com/MobyNL/robotframework-mongodblibrary) - MongoDB testing built on pymongo 4, with named connections, query and update operators, indexes, and retrying assertions.
+- [MongoDB Library (pymongo 4)](https://github.com/MobyNL/robotframework-mongodblibrary) ([Keywords](https://mobynl.github.io/robotframework-mongodblibrary/)) - MongoDB testing built on pymongo 4, with named connections, query and update operators, indexes, and retrying assertions.
 - [Oracledb Library](https://pypi.org/project/robotframework-oracledb/) - Work with Oracle Databases. *Archived; no updates since 2020.*
 - [Postgresqldb Library](https://pypi.org/project/robotframework-postgresqldb/) - Work with PostgresSQL databases. *Archived; no updates since 2019.*
 - [Tarantool Library](https://pypi.org/project/robotframework-tarantoollibrary/) - Work with Tarantool DB. *Archived; no updates since 2019.*
@@ -242,6 +242,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 
 - [Docker](https://pypi.org/project/robotframework-docker/) - Work with Docker and Docker Compose.
 - [IPMI](https://pypi.org/project/robotframework-ipmilibrary/) - Test IPMI devices.
+- [MitmLibrary](https://github.com/MobyNL/robotframework-mitmlibrary) ([Keywords](https://mobynl.github.io/robotframework-mitmlibrary/)) - Intercept and manipulate network traffic with a mitmproxy-based proxy: stub or modify requests and responses, block or delay them, and assert on the traffic that passed through.
 - [Ncclient](https://github.com/vkosuri/robotframework-ncclient) ([Keywords](https://vkosuri.github.io/robotframework-ncclient/)) - Robotframework NETCONF wrapper library of ncclient.
 - [Apache Tomcat](https://pypi.org/project/robotframework-apachetomcat/) - Manage Apache Tomcat server. *Archived; no updates since 2019.*
 - [Zookeeper Manager](https://pypi.org/project/robotframework-zookeepermanager/) - Manage Apache Zookeeper. *Archived; no updates since 2020.*
