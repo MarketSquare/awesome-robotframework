@@ -278,6 +278,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Testrail](https://pypi.org/project/robotframework-testrail/) - Listener and pre-run modifier for working with TestRail. *Archived; no updates since 2019.*
 - [RobotLiveTrace](https://github.com/iDentitY4/robotframework-live-trace) - Real-time GUI dashboard for visualizing test execution keyword call stacks and logs.
 - [WebDialogs](https://github.com/Ymil/robotframework-webdialogs) - Browser-based dialogs and custom forms for human-in-the-loop Robot Framework executions.
+- [TimeTravel](https://github.com/deekshith-poojary98/robotframework-timetravel) - Freeze, travel and advance the clock for deterministic testing of time-dependent scenarios such as token expiration and subscription renewals.
 
 ### Visual Testing
 
