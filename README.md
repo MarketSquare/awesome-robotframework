@@ -280,6 +280,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [WebDialogs](https://github.com/Ymil/robotframework-webdialogs) - Browser-based dialogs and custom forms for human-in-the-loop Robot Framework executions.
 - [Snapshot](https://github.com/timdegroot1996/robotframework-snapshot) - Compare text, JSON, XML and files against stored snapshots; fails with a diff on change.
 - [TimeTravel](https://github.com/deekshith-poojary98/robotframework-timetravel) - Freeze, travel and advance the clock for deterministic testing of time-dependent scenarios such as token expiration and subscription renewals.
+- [Curlify3](https://github.com/shpaker/curlify3) - Render requests sent with RequestsLibrary as ready-to-run curl commands, or log every request of a session to replay it from a terminal.
 
 
 ### Visual Testing
