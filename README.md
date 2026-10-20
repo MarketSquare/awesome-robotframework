@@ -110,6 +110,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Appium Library](https://github.com/serhatbolsu/robotframework-appiumlibrary) - Library for Android- and iOS-testing. It uses Appium internally.
 - [crosslocator](https://github.com/julien-becheny/crosslocator) - Define a UI selector once and resolve it per platform (Android, iOS, iPadOS, Windows). Framework-agnostic, with Robot Framework keywords (`Set Current Platform`, `Resolve Locator`).
 - [iOS Library](https://github.com/lovelysystems/robotframework-ioslibrary) - Library for all your iOS automation needs. It uses Calabash iOS Server internally. *Archived; no updates since 2015.*
+- [Optics](https://github.com/mozarkai/optics-framework) - Android, iOS, TV and web testing through Appium, Selenium or Playwright, imported as `optics_framework.optics.Optics`. Element lookup falls back from XPath to text, OCR and image matching.
 
 ### Cloud and Devops
 
