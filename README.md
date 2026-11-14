@@ -244,6 +244,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [UPnP/SSDP Library](https://github.com/Legrandgroup/robotframework-upnplibrary) - Testing devices announcing services using the UPnP/SSDP protocol. *No updates since 2019.*
 - [WebSocket Client](https://pypi.org/project/robotframework-websocketclient/) - Wrapper for the websocket-client module. *Archived; no updates since 2017.*
 - [Wi-Fi Library](https://github.com/Legrandgroup/robotframework-wificlientcontroller) - Interact with wpa_supplicant and handle Wi-Fi events. *No updates since 2020.*
+- [Maily](https://github.com/stormsia/maily) - Temporary email REST API gateway and client for automated testing of signup verification links and OTP codes.
 
 ### Monitoring
 
