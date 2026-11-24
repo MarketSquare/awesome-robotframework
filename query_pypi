@@ -2,23 +2,65 @@
 # -*- coding: utf-8 -*-
 
 """
-Prints all PyPi projects which make use of one or all of the
-PyPi trove classifiers avilable for the framework.
-The script has been tested running under Python 3.6.8.
+Prints all PyPI projects which use one or more of the PyPI trove
+classifiers available for the framework.
+
+PyPI removed the XML-RPC `browse` method, and the web search is behind a
+JavaScript challenge, so this script scans the simple index for project names
+that look Robot Framework related and checks the classifiers of each
+candidate via the JSON API. Projects with an unrelated name that only carry
+the classifier are not found.
+
+Usage: ./query_pypi [-v]   (-v also prints summary and last release date)
 """
 
+import json
+import re
+import sys
+import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 
-import xmlrpc.client as xmlrpclib
+TROVE_CLASSIFIERS = {
+    "Framework :: Robot Framework",
+    "Framework :: Robot Framework :: Library",
+    "Framework :: Robot Framework :: Tool",
+}
+NAME_PATTERN = re.compile(r"robot|(^|[-_.])rf([-_.]|$)", re.IGNORECASE)
+USER_AGENT = "awesome-robotframework-query-pypi"
 
-client = xmlrpclib.ServerProxy('https://pypi.python.org/pypi')
 
-# get all PyPi projects which have at least one classifier set
-trove_classifiers = ["Framework :: Robot Framework", "Framework :: Robot Framework :: Library", "Framework :: Robot Framework :: Tool"]
-pypi_projects = []
-for tc in trove_classifiers:
-    tc_pypi_projects = [p[0] for p in client.browse([tc])]
-    pypi_projects += tc_pypi_projects
+def get_json(url, accept="application/json"):
+    request = urllib.request.Request(url, headers={"Accept": accept, "User-Agent": USER_AGENT})
+    with urllib.request.urlopen(request, timeout=60) as response:
+        return json.load(response)
 
-for p in set(pypi_projects):
-    print(p)
 
+def candidate_names():
+    index = get_json("https://pypi.org/simple/", "application/vnd.pypi.simple.v1+json")
+    return [p["name"] for p in index["projects"] if NAME_PATTERN.search(p["name"])]
+
+
+def project_info(name):
+    try:
+        data = get_json(f"https://pypi.org/pypi/{name}/json")
+    except Exception:
+        return None
+    info = data["info"]
+    if not TROVE_CLASSIFIERS.intersection(info.get("classifiers") or []):
+        return None
+    uploads = [f["upload_time"] for files in data["releases"].values() for f in files]
+    return info["name"], info.get("summary") or "", max(uploads)[:10] if uploads else ""
+
+
+def main():
+    verbose = "-v" in sys.argv[1:]
+    names = candidate_names()
+    print(f"Checking {len(names)} candidate projects...", file=sys.stderr)
+    with ThreadPoolExecutor(max_workers=16) as pool:
+        results = sorted(r for r in pool.map(project_info, names) if r)
+    for name, summary, last_release in results:
+        print(f"{name}\t{last_release}\t{summary}" if verbose else name)
+
+
+if __name__ == "__main__":
+    main()
