@@ -344,6 +344,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Browser Extensions](https://github.com/MarketSquare/robotframework-browser-extensions) - Collection of extensions for the Browser library.
 - [Browser Translation](https://github.com/MarketSquare/robotframework-browser-translation) - Finnish translation of the Browser library.
 - [SeleniumLibrary Translation](https://github.com/MarketSquare/robotframework-seleniumlibrary-translation) - Translation of SeleniumLibrary keywords.
+- [Vibium](https://github.com/Jhoan0714/robotframework-vibium) - Browser automation based on Vibium.
 
 **[⬆ back to top](#contents)**
 
@@ -453,6 +454,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [LibToc](https://github.com/amochin/robotframework-libtoc) - This tool generates docs using Robot Framework Libdoc for an entire folder (or multiple folders) with Robot Framework resources/libs and creates a TOC (table of contents) file for them.
 - [Report Modifier](https://github.com/MarketSquare/robotframework-reportmodifier) - Filter report content by message, keyword name or path.
 - [GHA Reports](https://github.com/rasjani/robotframework-ghareports) - Listener that generates reports for GitHub Actions.
+- [TestDoc](https://github.com/MarvKler/robotframework-testdoc) - CLI tool to generate HTML test documentation.
 
 ### AI Tools
 
