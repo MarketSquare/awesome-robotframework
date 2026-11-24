@@ -314,7 +314,7 @@ The Robot Framework Foundation is a non-profit organization that supports the de
 - [Curlify3](https://github.com/shpaker/curlify3) - Render requests sent with RequestsLibrary as ready-to-run curl commands, or log every request of a session to replay it from a terminal.
 - [StatusChecker](https://github.com/robotframework/statuschecker) - Validate that executed test cases have the expected statuses and log messages.
 - [AssertionEngine](https://github.com/MarketSquare/AssertionEngine) - Generic assertions for use inside libraries.
-- [Mock](https://github.com/olesz/robotframework-mock) - Mock keywords in unit tests.
+- [Mock](https://github.com/olesz/robotframework-mock) - Library for mocking keywords in unit tests.
 - [RobotLibrary](https://github.com/datakurre/robotframework-robotlibrary) - Keywords for testing Robot Framework tasks.
 
 
